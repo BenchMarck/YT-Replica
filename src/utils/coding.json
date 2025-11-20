@@ -1,0 +1,2596 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "x90MfABOotoLZTpDrjZW-Eslr5k",
+        "id": "Cn6juk073uM",
+        "snippet": {
+            "publishedAt": "2025-11-15T14:00:22Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "These Tools Changed My Python Workflow",
+            "description": "Try ConfigCat's Forever Free plan, or get 25% off any paid plan with the code TIM25 → https://configcat.com/promotions/tech-with-tim/?utm_source=youtube&utm_medium=sponsor&utm_campaign=tech-with-tim_202511\n\nThe tools I'll show you in this video have completely changed my Python workflow. They've saved me hundreds of hours of development time, and they're ones that I believe every Python developer should least be considering, if not using in their workflow.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=Cn6juk073uM\n\n🔍 Video Resources\nCursor Tutorial: https://www.youtube.com/watch?v=ocMOZpuAMw4\nUV Tutorial: https://www.youtube.com/watch?v=6pttmsBSi8M\nDotenv Docs: https://pypi.org/project/python-dotenv/\nRuff Docs: https://github.com/astral-sh/ruff\nPytest Tutorial: https://www.youtube.com/watch?v=EgpLj86ZHFQ\nDocker Tutorial: https://www.youtube.com/watch?v=ZiwvZenOzto\n\n⏳ Timestamps ⏳\n00:00 | Intro\n00:21 | Cursor\n01:56 | UV\n04:40 | Dotenv\n06:53 | ConfigCat\n08:34 | Ruff \n11:18 | Pytest\n13:25 | Docker\n\nHashtags\n#Python #PythonTools #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Cn6juk073uM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Cn6juk073uM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Cn6juk073uM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Cn6juk073uM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Cn6juk073uM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "Python",
+                "Python Tools",
+                "Cursor AI",
+                "UV",
+                "Pip",
+                "Dotenv",
+                "Python.ENV",
+                "ConfigCat",
+                "Ruff coding",
+                "Pytest",
+                "Docker",
+                "package manager",
+                "environment variable files",
+                "linter",
+                "python linter",
+                "framework",
+                "python framework",
+                "DevLaunch",
+                "code deployment",
+                "best python tools",
+                "python workflow",
+                "software engineer",
+                "software programming",
+                "coding workflow"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "These Tools Changed My Python Workflow",
+                "description": "Try ConfigCat's Forever Free plan, or get 25% off any paid plan with the code TIM25 → https://configcat.com/promotions/tech-with-tim/?utm_source=youtube&utm_medium=sponsor&utm_campaign=tech-with-tim_202511\n\nThe tools I'll show you in this video have completely changed my Python workflow. They've saved me hundreds of hours of development time, and they're ones that I believe every Python developer should least be considering, if not using in their workflow.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=Cn6juk073uM\n\n🔍 Video Resources\nCursor Tutorial: https://www.youtube.com/watch?v=ocMOZpuAMw4\nUV Tutorial: https://www.youtube.com/watch?v=6pttmsBSi8M\nDotenv Docs: https://pypi.org/project/python-dotenv/\nRuff Docs: https://github.com/astral-sh/ruff\nPytest Tutorial: https://www.youtube.com/watch?v=EgpLj86ZHFQ\nDocker Tutorial: https://www.youtube.com/watch?v=ZiwvZenOzto\n\n⏳ Timestamps ⏳\n00:00 | Intro\n00:21 | Cursor\n01:56 | UV\n04:40 | Dotenv\n06:53 | ConfigCat\n08:34 | Ruff \n11:18 | Pytest\n13:25 | Docker\n\nHashtags\n#Python #PythonTools #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT15M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "16263",
+            "likeCount": "650",
+            "favoriteCount": "0",
+            "commentCount": "40"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "J6Amsmjf2e01_BKD2EblV2imx8w",
+        "id": "8cf_bveteOE",
+        "snippet": {
+            "publishedAt": "2025-11-13T13:45:12Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "Finally, an AI Database That Actually Makes Sense",
+            "description": "Create an Account to try Tiger Data for Free: https://tsdb.co/twt\n\nI'm going to show you some of the coolest AI features that I've seen for working with databases this far, and it completely changes the game, especially for agent development. I explain how it works, how to set it up for yourself, and how you can start using it right away.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=8cf_bveteOE\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:39 | Demo \n05:10 | Setup & Tutorial\n11:05 | Creating Sample Data\n12:44 | Agentic Workflow Example\n\nHashtags\n#TigerData #CursorAI #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8cf_bveteOE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8cf_bveteOE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8cf_bveteOE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8cf_bveteOE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8cf_bveteOE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "TigerData",
+                "Cursor AI",
+                "Software Engineer",
+                "ai database",
+                "vector search technology",
+                "mongodb vector database",
+                "software development tools",
+                "web app development",
+                "javascript programming",
+                "ai-powered databases",
+                "data search optimization",
+                "scalable databases",
+                "machine learning integration",
+                "database for developers",
+                "next-gen data storage",
+                "ai in software engineering",
+                "agentic postgres",
+                "postgres",
+                "instant forks",
+                "database",
+                "vector search",
+                "mcp server",
+                "agentic workflow"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Finally, an AI Database That Actually Makes Sense",
+                "description": "Create an Account to try Tiger Data for Free: https://tsdb.co/twt\n\nI'm going to show you some of the coolest AI features that I've seen for working with databases this far, and it completely changes the game, especially for agent development. I explain how it works, how to set it up for yourself, and how you can start using it right away.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=8cf_bveteOE\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:39 | Demo \n05:10 | Setup & Tutorial\n11:05 | Creating Sample Data\n12:44 | Agentic Workflow Example\n\nHashtags\n#TigerData #CursorAI #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT16M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "9748",
+            "likeCount": "310",
+            "favoriteCount": "0",
+            "commentCount": "23"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "K1KejYKsm_QL0AqH53tP3SgBTT0",
+        "id": "YhmtBmyQt18",
+        "snippet": {
+            "publishedAt": "2025-11-11T14:01:03Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "Python Skills You NEED Before Machine Learning",
+            "description": "🎓 These are two of the best beginner-friendly Python Machine Learning resources I recommend:\n🔹  Python Data Fundamentals Track (Datacamp) (https://datacamp.pxf.io/ra7RyG)\n🔹  ML Scientist with Python Track (Datacamp) (https://datacamp.pxf.io/55VKGn)\n\n🔥 Get 25% OFF Datacamp with my exclusive link: https://datacamp.pxf.io/kOmVvM\n\nIf you want to get into machine learning, then you need to master certain python skills. This video provides a complete python roadmap, breaking down the programming skills that you need. This python tutorial will help you to learn python and prepare for data science.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:23 | Core Python Skills\n01:26 | Data Handling & Analysis\n02:33 | Interactive Learning & Resources\n03:49 | Core SWE Tools\n04:37 | Math (Optional)\n05:18 | Machine Learning Foundations\n06:08 | Deep Learning\n06:55 | Real World ML\n08:00 | LLMs (Bonus)\n08:41 | Project & Portfolio\n\nHashtags\n#Python #MachineLearning #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YhmtBmyQt18/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YhmtBmyQt18/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YhmtBmyQt18/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/YhmtBmyQt18/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/YhmtBmyQt18/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "python machine learning",
+                "machine learning tutorial",
+                "python ai development",
+                "machine learning course",
+                "machine learning skills",
+                "python data science",
+                "ml engineering",
+                "ai roadmap",
+                "data analysis python",
+                "machine learning projects",
+                "ai career guide",
+                "beginner machine learning",
+                "core python skills",
+                "data handling",
+                "interactive learning",
+                "swe tools",
+                "real world ml",
+                "llms",
+                "object oriented programming",
+                "lambdas",
+                "context managers",
+                "meta classes",
+                "git",
+                "github",
+                "PyTorch",
+                "FastAPI"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Python Skills You NEED Before Machine Learning",
+                "description": "🎓 These are two of the best beginner-friendly Python Machine Learning resources I recommend:\n🔹  Python Data Fundamentals Track (Datacamp) (https://datacamp.pxf.io/ra7RyG)\n🔹  ML Scientist with Python Track (Datacamp) (https://datacamp.pxf.io/55VKGn)\n\n🔥 Get 25% OFF Datacamp with my exclusive link: https://datacamp.pxf.io/kOmVvM\n\nIf you want to get into machine learning, then you need to master certain python skills. This video provides a complete python roadmap, breaking down the programming skills that you need. This python tutorial will help you to learn python and prepare for data science.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:23 | Core Python Skills\n01:26 | Data Handling & Analysis\n02:33 | Interactive Learning & Resources\n03:49 | Core SWE Tools\n04:37 | Math (Optional)\n05:18 | Machine Learning Foundations\n06:08 | Deep Learning\n06:55 | Real World ML\n08:00 | LLMs (Bonus)\n08:41 | Project & Portfolio\n\nHashtags\n#Python #MachineLearning #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT10M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "14755",
+            "likeCount": "676",
+            "favoriteCount": "0",
+            "commentCount": "180"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "1yfjz8qRVpgoG6XgFWwD4pMcLxw",
+        "id": "KUPceyLgzeU",
+        "snippet": {
+            "publishedAt": "2025-11-08T18:52:26Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "7 Python Anti Patterns to Avoid",
+            "description": "Get started with Airia today and register for a free account to start orchestrating your own AI agents: https://bit.ly/3KhdQOq\n\nThis video breaks down 7 Python Anti-Patterns that you need to avoid in your code. These patterns \"seem\" fine but can lead to devastating consequences if not handled properly.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\nLogging Video: https://www.youtube.com/watch?v=urrfJgHwIJA\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:31 | Pattern 1\n04:10 | Pattern 2\n08:19 | Pattern 3 \n10:50 | Pattern 4 \n13:55 | Pattern 5\n16:25 | Pattern 6\n18:34 | Pattern 7\n\nHashtags\n#Python #AntiPatterns #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KUPceyLgzeU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KUPceyLgzeU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KUPceyLgzeU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KUPceyLgzeU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KUPceyLgzeU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "python",
+                "python syntax",
+                "time complexity",
+                "big-o notation",
+                "double equal sign",
+                "list comprehensions",
+                "dictionary comprehension",
+                "generator expression",
+                "context managers",
+                "file operations",
+                "logging",
+                "library utilities",
+                "mutable default arguements",
+                "python anti patterns",
+                "python coding mistakes",
+                "python developer tips",
+                "avoid anti patterns",
+                "python programming tips",
+                "software engineering anti patterns",
+                "advanced python tips",
+                "python troubleshooting"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "7 Python Anti Patterns to Avoid",
+                "description": "Get started with Airia today and register for a free account to start orchestrating your own AI agents: https://bit.ly/3KhdQOq\n\nThis video breaks down 7 Python Anti-Patterns that you need to avoid in your code. These patterns \"seem\" fine but can lead to devastating consequences if not handled properly.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\nLogging Video: https://www.youtube.com/watch?v=urrfJgHwIJA\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:31 | Pattern 1\n04:10 | Pattern 2\n08:19 | Pattern 3 \n10:50 | Pattern 4 \n13:55 | Pattern 5\n16:25 | Pattern 6\n18:34 | Pattern 7\n\nHashtags\n#Python #AntiPatterns #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT21M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "18855",
+            "likeCount": "660",
+            "favoriteCount": "0",
+            "commentCount": "46"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "Il1EfFoWWiCNGyxhOuCHX7Amr1c",
+        "id": "WPBXvDS-UEo",
+        "snippet": {
+            "publishedAt": "2025-11-06T13:01:06Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "Is This the Fastest App Build Ever? (Base44 Demo)",
+            "description": "In this video, I'm going to attempt to clone Airbnb in just ten minutes and get to a functional prototype. Of course, I'm going to be using AI and the platform I'm going to be testing in this video is Base 44.\n\nGet started with Base44: https://base44.pxf.io/c/5252479/2049275/25619?trafcat=base\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=WPBXvDS-UEo\n\n⏳ Timestamps ⏳\n00:00 | Overview & Base44\n01:25 | Prompting & Creation\n06:00 | Analytics and Deployment\n\nHashtags\n#Base44 #AIAgents #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WPBXvDS-UEo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WPBXvDS-UEo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WPBXvDS-UEo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WPBXvDS-UEo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WPBXvDS-UEo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "ai app builder",
+                "no code app development",
+                "base44 ai app",
+                "clone airbnb app",
+                "ai app creation tutorial",
+                "how to build ai apps",
+                "ai app builder demo",
+                "ai app development",
+                "ai tools for apps",
+                "build ios app with ai",
+                "base44 review",
+                "ai app builder review",
+                "ai app creation no code",
+                "top ai app builders",
+                "create ai apps easily",
+                "fast ai app builder",
+                "innovative ai app tools"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Is This the Fastest App Build Ever? (Base44 Demo)",
+                "description": "In this video, I'm going to attempt to clone Airbnb in just ten minutes and get to a functional prototype. Of course, I'm going to be using AI and the platform I'm going to be testing in this video is Base 44.\n\nGet started with Base44: https://base44.pxf.io/c/5252479/2049275/25619?trafcat=base\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=WPBXvDS-UEo\n\n⏳ Timestamps ⏳\n00:00 | Overview & Base44\n01:25 | Prompting & Creation\n06:00 | Analytics and Deployment\n\nHashtags\n#Base44 #AIAgents #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT9M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "15348",
+            "likeCount": "426",
+            "favoriteCount": "0",
+            "commentCount": "57"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "CCMzTopgsewJCvMUGG5K2SZvXy4",
+        "id": "g93XqSRxcAs",
+        "snippet": {
+            "publishedAt": "2025-11-04T13:59:12Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "OpenAI’s New Agent Builder is Insane - Full Tutorial",
+            "description": "Get started with Rube today: https://rube.app/?utm_source=Social&utm_medium=Youtube&utm_campaign=2025-09&utm_content=Tech%20with%20Tim\n\nToday I'm having a look at OpenAI's new agent builder. You can create some really interesting agents. I've been messing around with it, seeing what it's capable of and building a few agents of my own. I want to give you a quick demo and tutorial, and then share with you my thoughts.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=g93XqSRxcAs\n\n🎞 Video Resources 🎞\nOpenAI Agent Builder: https://platform.openai.com/docs/guides/agent-builder\n\n⏳ Timestamps ⏳\n00:00 | Agent Builder Intro\n01:00 | AgentKit Announcement & Info\n05:21 | Advanced Agent Demo\n09:29 | Tutorial & Agent Build \n\nHashtags\n#OpenAI #AgentBuilder #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g93XqSRxcAs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g93XqSRxcAs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g93XqSRxcAs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g93XqSRxcAs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/g93XqSRxcAs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "openai",
+                "agent builder",
+                "ai tutorial",
+                "openai agent",
+                "ai development",
+                "machine learning",
+                "ai tools",
+                "automation",
+                "ai programming",
+                "ai workflow",
+                "ai platform",
+                "tech tutorial",
+                "ai integration",
+                "artificial intelligence",
+                "ai customization",
+                "AgentKit",
+                "listviews",
+                "LLMs",
+                "OpenAI",
+                "ChatGPT"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "OpenAI’s New Agent Builder is Insane - Full Tutorial",
+                "description": "Get started with Rube today: https://rube.app/?utm_source=Social&utm_medium=Youtube&utm_campaign=2025-09&utm_content=Tech%20with%20Tim\n\nToday I'm having a look at OpenAI's new agent builder. You can create some really interesting agents. I've been messing around with it, seeing what it's capable of and building a few agents of my own. I want to give you a quick demo and tutorial, and then share with you my thoughts.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=g93XqSRxcAs\n\n🎞 Video Resources 🎞\nOpenAI Agent Builder: https://platform.openai.com/docs/guides/agent-builder\n\n⏳ Timestamps ⏳\n00:00 | Agent Builder Intro\n01:00 | AgentKit Announcement & Info\n05:21 | Advanced Agent Demo\n09:29 | Tutorial & Agent Build \n\nHashtags\n#OpenAI #AgentBuilder #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT30M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "113910",
+            "likeCount": "368",
+            "favoriteCount": "0",
+            "commentCount": "18"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "b0F-qToD-0WI9LXl7rspauIvc2s",
+        "id": "cliZ-VzQxkE",
+        "snippet": {
+            "publishedAt": "2025-11-01T13:58:04Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "I Let 3 AIs Compete to Build the Same App…",
+            "description": "Today, I'm putting three of the most hyped AI coding platforms to the test: Blitzy, Devin, and Factory AI. Now, each of these tools take a slightly different approach to building software. I'm going to give all three of them the exact same real world task, something the developers actually do in companies all the time. We're going to see which platform performs the best, and how much effort it takes from my end, the programmer.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=cliZ-VzQxkE\n\n🎞 Video Resources 🎞\nBlitzy: https://blitzy.com/?utm_source=YouTube&utm_medium=Social&utm_campaign=Tech%20with%20Tim\nFactory: https://factory.ai/\nDevin: https://devin.ai/\n\nAWS Card Demo Repo: https://aws.amazon.com/blogs/opensource/introducing-open-source-aws-carddemo-for-mainframe-modernization/\nBlitzy SWE Bench: https://paper.blitzy.com/blitzy_system_2_ai_platform_topping_swe_bench_verified.pdf\nDevin SWE Bench: https://cognition.ai/blog/swe-bench-technical-report\nFactory SWE Bench: https://factory.ai/news/code-droid-technical-report\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:52 | Demo Task\n02:31 | Prompt\n03:20 | SWE Bench Results\n05:50 | Blitzy\n11:35 | Devin\n15:58 | Factory\n\nHashtags\n#BlitzyAI #CognitionDevin #FactoryAI",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cliZ-VzQxkE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cliZ-VzQxkE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cliZ-VzQxkE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cliZ-VzQxkE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cliZ-VzQxkE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "ai platforms",
+                "blitzy ai",
+                "devin ai",
+                "factory ai",
+                "best ai platform",
+                "ai comparison",
+                "ai tools review",
+                "ai technology",
+                "ai software",
+                "ai debate",
+                "ai showcase",
+                "ai solutions",
+                "ai performance",
+                "ai industry",
+                "ai innovation",
+                "Amazon Web Service",
+                "software engineer",
+                "refactoring",
+                "backlog cleanup",
+                "AWS CardDemo",
+                "COBOL",
+                "CICS",
+                "VSAM",
+                "JCL",
+                "SWE bench",
+                "software engineering benchmark",
+                "documentation"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "I Let 3 AIs Compete to Build the Same App…",
+                "description": "Today, I'm putting three of the most hyped AI coding platforms to the test: Blitzy, Devin, and Factory AI. Now, each of these tools take a slightly different approach to building software. I'm going to give all three of them the exact same real world task, something the developers actually do in companies all the time. We're going to see which platform performs the best, and how much effort it takes from my end, the programmer.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=cliZ-VzQxkE\n\n🎞 Video Resources 🎞\nBlitzy: https://blitzy.com/?utm_source=YouTube&utm_medium=Social&utm_campaign=Tech%20with%20Tim\nFactory: https://factory.ai/\nDevin: https://devin.ai/\n\nAWS Card Demo Repo: https://aws.amazon.com/blogs/opensource/introducing-open-source-aws-carddemo-for-mainframe-modernization/\nBlitzy SWE Bench: https://paper.blitzy.com/blitzy_system_2_ai_platform_topping_swe_bench_verified.pdf\nDevin SWE Bench: https://cognition.ai/blog/swe-bench-technical-report\nFactory SWE Bench: https://factory.ai/news/code-droid-technical-report\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:52 | Demo Task\n02:31 | Prompt\n03:20 | SWE Bench Results\n05:50 | Blitzy\n11:35 | Devin\n15:58 | Factory\n\nHashtags\n#BlitzyAI #CognitionDevin #FactoryAI"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT21M45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "1012912",
+            "likeCount": "377",
+            "favoriteCount": "0",
+            "commentCount": "22"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "HP6QpZ_48-H6DPTB8GrIelROsGE",
+        "id": "SR5NYCdzKkc",
+        "snippet": {
+            "publishedAt": "2025-10-30T13:26:08Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "Learn Fast API With This ONE Project",
+            "description": "ImageKit is an image and video API plus AI-Powered DAM that we use in this project to handle all of our image and video operations, check it out here: https://tinyurl.com/bdf3mxxx\n\nI'll teach you Fast API by working through a real project. I'll go over everything from the absolute basics to some more advanced concepts like setting up authentication, logging in various users, connecting to a database, and all of the components that you actually need if you want to build a real production grade application. This video is not designed for absolute beginners.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=SR5NYCdzKkc\n\n🎞 Video Resources 🎞\nImageKit:  https://tinyurl.com/bdf3mxxx\nImageKit Docs: https://imagekit.io/docs/integration/python#generating-url-for-rendering-images-in-python-app\nFastAPI Users Docs: https://fastapi-users.github.io/fastapi-users/latest/\nCode in this video: https://github.com/techwithtim/FastAPIPhotoVideoSharing\nUV Tutorial: https://www.youtube.com/watch?v=6pttmsBSi8M\n\n⏳ Timestamps ⏳\n00:00:00 | Video Overview\n00:00:35 | Project Demo\n00:01:58 | Web App Architecture & Theory\n00:14:07 | Project Setup & Install\n00:20:45 | FastAPI Setup & Basics\n00:28:10 | FastAPI Docs\n00:30:10 | GET & Fetching Posts\n00:32:25 | Path Parameters\n00:33:49 | Raising Errors & Status Codes\n00:34:56 | Query Parameter\n00:38:34 | Request Body & POST\n00:43:28 | Output Type & Pydantic Models\n00:46:30 | Database Connection\n00:59:57 | Creating Posts & Saving to Database\n01:05:22 | Retrieving from Database\n01:10:27 | Image & Video Upload (ImageKit)\n01:27:08 | Deleting Posts\n01:30:54 | User Authentication and JWT Tokens\n01:52:02 | Protecting Endpoints\n01:58:00 | Streamlit Frontend\n\nHashtags\n#FastAPI #ImageKit #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SR5NYCdzKkc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SR5NYCdzKkc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SR5NYCdzKkc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SR5NYCdzKkc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "fastapi tutorial",
+                "fastapi project",
+                "python api development",
+                "building apis with fastapi",
+                "fastapi routing",
+                "fastapi path parameters",
+                "fastapi response modeling",
+                "fastapi interactive docs",
+                "python web framework",
+                "python backend development",
+                "creating rest apis",
+                "fastapi for beginners",
+                "python api tutorial",
+                "developing web apps with fastapi",
+                "fastapi deployment",
+                "async python apis",
+                "ImageKit"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn Fast API With This ONE Project",
+                "description": "ImageKit is an image and video API plus AI-Powered DAM that we use in this project to handle all of our image and video operations, check it out here: https://tinyurl.com/bdf3mxxx\n\nI'll teach you Fast API by working through a real project. I'll go over everything from the absolute basics to some more advanced concepts like setting up authentication, logging in various users, connecting to a database, and all of the components that you actually need if you want to build a real production grade application. This video is not designed for absolute beginners.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=SR5NYCdzKkc\n\n🎞 Video Resources 🎞\nImageKit:  https://tinyurl.com/bdf3mxxx\nImageKit Docs: https://imagekit.io/docs/integration/python#generating-url-for-rendering-images-in-python-app\nFastAPI Users Docs: https://fastapi-users.github.io/fastapi-users/latest/\nCode in this video: https://github.com/techwithtim/FastAPIPhotoVideoSharing\nUV Tutorial: https://www.youtube.com/watch?v=6pttmsBSi8M\n\n⏳ Timestamps ⏳\n00:00:00 | Video Overview\n00:00:35 | Project Demo\n00:01:58 | Web App Architecture & Theory\n00:14:07 | Project Setup & Install\n00:20:45 | FastAPI Setup & Basics\n00:28:10 | FastAPI Docs\n00:30:10 | GET & Fetching Posts\n00:32:25 | Path Parameters\n00:33:49 | Raising Errors & Status Codes\n00:34:56 | Query Parameter\n00:38:34 | Request Body & POST\n00:43:28 | Output Type & Pydantic Models\n00:46:30 | Database Connection\n00:59:57 | Creating Posts & Saving to Database\n01:05:22 | Retrieving from Database\n01:10:27 | Image & Video Upload (ImageKit)\n01:27:08 | Deleting Posts\n01:30:54 | User Authentication and JWT Tokens\n01:52:02 | Protecting Endpoints\n01:58:00 | Streamlit Frontend\n\nHashtags\n#FastAPI #ImageKit #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT2H5M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "44358",
+            "likeCount": "1640",
+            "favoriteCount": "0",
+            "commentCount": "82"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "n5rvQip6SxvBiH4uimu8_iGmuj4",
+        "id": "e0FvoOtdAQc",
+        "snippet": {
+            "publishedAt": "2025-10-28T13:55:52Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "3 Unique Python Features You NEED To Know",
+            "description": "👉 To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant’s also given our viewers 20% off an annual Premium subscription, which gives you unlimited daily access to everything on Brilliant. \n\nPython is definitely an interesting language that has many unique features. However, many of these features are never actually used out in the wild because people simply don't know they exist. So in this video, I'm going to go over some more modern and relatively new Python features that I rarely see used that I think are interesting and that you should definitely know about.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=e0FvoOtdAQc\n\n⏳ Timestamps ⏳\n00:00 | Match Statement\n04:24 | Dataclasses\n08:47 | Positional & Keyword ONLY Arguments \n\nHashtags\n#Python #Brilliant #SoftwareEngineer",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/e0FvoOtdAQc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/e0FvoOtdAQc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/e0FvoOtdAQc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/e0FvoOtdAQc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/e0FvoOtdAQc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "Python",
+                "python match statement",
+                "python dataclasses",
+                "python arguements",
+                "switch statement",
+                "programming languages",
+                "python keyword arguments",
+                "python positional arguments",
+                "python parameters",
+                "APIs",
+                "data classes",
+                "python coding",
+                "python programming",
+                "advanced python",
+                "learn python",
+                "software engineering"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "3 Unique Python Features You NEED To Know",
+                "description": "👉 To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant’s also given our viewers 20% off an annual Premium subscription, which gives you unlimited daily access to everything on Brilliant. \n\nPython is definitely an interesting language that has many unique features. However, many of these features are never actually used out in the wild because people simply don't know they exist. So in this video, I'm going to go over some more modern and relatively new Python features that I rarely see used that I think are interesting and that you should definitely know about.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=e0FvoOtdAQc\n\n⏳ Timestamps ⏳\n00:00 | Match Statement\n04:24 | Dataclasses\n08:47 | Positional & Keyword ONLY Arguments \n\nHashtags\n#Python #Brilliant #SoftwareEngineer"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT16M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "15459",
+            "likeCount": "547",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "blHJ2PkzYXvXAzHWx2ClHzHX6E4",
+        "id": "gaGaPpnexxA",
+        "snippet": {
+            "publishedAt": "2025-10-26T13:40:52Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "Build a Python AI Agent in 10 Minutes",
+            "description": "Try Notion for free → https://ntn.so/techwithtim\n\n👉  Check out PyCharm, the only Python IDE you need. Built for web, data, and AI/ML professionals. Download now. Free forever, plus one month of Pro included: https://jb.gg/check_out_pycharm_ide\n\nToday I'm going to show you how to build an AI agent in Python in less than ten minutes.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=gaGaPpnexxA\n\n🎞 Video Resources 🎞\nUV Video: https://www.youtube.com/watch?v=6pttmsBSi8M\nCode in this video: https://github.com/techwithtim/PythonAIAgentin10Minutes\n\n⏳ Timestamps ⏳\n00:00 | Install & Setup \n01:23 | OpenAI API Key\n03:26 | Imports\n04:42 | Tools\n06:39 | LLM & Agent \n07:43 | Driver Code\n09:45 | Testing\n\nHashtags\n#Python #AIAgents #Notion",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gaGaPpnexxA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gaGaPpnexxA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gaGaPpnexxA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gaGaPpnexxA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gaGaPpnexxA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "Python AI",
+                "Build AI",
+                "10 Minute Challenge",
+                "AI Agent Tutorial",
+                "Machine Learning In Python",
+                "Quick Python Projects",
+                "AI Programming",
+                "Instant AI",
+                "Code In 10 Minutes",
+                "Python For Beginners",
+                "OpenAI",
+                "ChatGPT",
+                "API",
+                "API Key",
+                "Notion",
+                "LLM",
+                "AI Agent",
+                "PyCharm",
+                "Artificial Intelligence"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Build a Python AI Agent in 10 Minutes",
+                "description": "Try Notion for free → https://ntn.so/techwithtim\n\n👉  Check out PyCharm, the only Python IDE you need. Built for web, data, and AI/ML professionals. Download now. Free forever, plus one month of Pro included: https://jb.gg/check_out_pycharm_ide\n\nToday I'm going to show you how to build an AI agent in Python in less than ten minutes.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=gaGaPpnexxA\n\n🎞 Video Resources 🎞\nUV Video: https://www.youtube.com/watch?v=6pttmsBSi8M\nCode in this video: https://github.com/techwithtim/PythonAIAgentin10Minutes\n\n⏳ Timestamps ⏳\n00:00 | Install & Setup \n01:23 | OpenAI API Key\n03:26 | Imports\n04:42 | Tools\n06:39 | LLM & Agent \n07:43 | Driver Code\n09:45 | Testing\n\nHashtags\n#Python #AIAgents #Notion"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT10M32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "52411",
+            "likeCount": "1690",
+            "favoriteCount": "0",
+            "commentCount": "57"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "93r8MSZuDwGPkwqImlTvRea0gNM",
+        "id": "8BBHhLioIus",
+        "snippet": {
+            "publishedAt": "2025-10-24T15:25:47Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "What Programming Language to Learn in 2025 and WHY",
+            "description": "Go to https://sponsr.is/kinsta_techwithtim or scan QR Code on the screen to get your first month of Managed WordPress Hosting for free and migrate your website over at no cost!\n\nMost software engineers that I talk to are learning the wrong programming language. They have no idea what they should be focusing on, and that's why I want to make this video. Today I'm going to talk about the best languages to learn in 2025 and why, and I'm going to tie all of these\nto a particular goal and person.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n⏳ Timestamps ⏳\n00:00 | Understanding Your Goal \n01:26 | JavaScript/TypeScript\n03:26 | What Drives Me Crazy as a Dev\n04:43 | Python\n06:27 | C#/.NET\n07:54 | Golang \n09:04 | Java\n10:39 | Kotlin/Swift\n11:36 | PHP\n12:46 | Rust\n13:57 | SQL\n14:47 | DevLaunch\n\nHashtags\n#ProgrammingLanguage #SoftwareEngineer #Coding",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8BBHhLioIus/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8BBHhLioIus/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8BBHhLioIus/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8BBHhLioIus/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8BBHhLioIus/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "Programming Language",
+                "Software Engineer",
+                "Coding",
+                "JavaScript",
+                "TypeScript",
+                "Python",
+                "C#",
+                ".NET",
+                "GoLang",
+                "Java",
+                "Kotlin",
+                "Swift",
+                "PHP",
+                "Rust",
+                "SQL",
+                "DevLaunch",
+                "best programming language",
+                "job search 2025",
+                "frontend",
+                "web development",
+                "mobile apps",
+                "AI",
+                "machine learning",
+                "ai agents",
+                "data science",
+                "backend",
+                "cloud applications"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "What Programming Language to Learn in 2025 and WHY",
+                "description": "Go to https://sponsr.is/kinsta_techwithtim or scan QR Code on the screen to get your first month of Managed WordPress Hosting for free and migrate your website over at no cost!\n\nMost software engineers that I talk to are learning the wrong programming language. They have no idea what they should be focusing on, and that's why I want to make this video. Today I'm going to talk about the best languages to learn in 2025 and why, and I'm going to tie all of these\nto a particular goal and person.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n⏳ Timestamps ⏳\n00:00 | Understanding Your Goal \n01:26 | JavaScript/TypeScript\n03:26 | What Drives Me Crazy as a Dev\n04:43 | Python\n06:27 | C#/.NET\n07:54 | Golang \n09:04 | Java\n10:39 | Kotlin/Swift\n11:36 | PHP\n12:46 | Rust\n13:57 | SQL\n14:47 | DevLaunch\n\nHashtags\n#ProgrammingLanguage #SoftwareEngineer #Coding"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT15M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "25887",
+            "likeCount": "975",
+            "favoriteCount": "0",
+            "commentCount": "156"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "5avfGUyTzBGsfmLG3rUWLx94twM",
+        "id": "_tstIX-cLeQ",
+        "snippet": {
+            "publishedAt": "2025-10-21T14:09:29Z",
+            "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+            "title": "I Can Spot a Weak Candidate in 10 Seconds - Here’s How",
+            "description": "This video breaks down the 5 most common coding technical interview mistakes and how to avoid them. If you've ever participated in a technical coding interview chances are you've made these mistakes and they may have cost you the job...\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=_tstIX-cLeQ\n\n⏳ Timestamps ⏳\n00:00 | Technical Interview Rant\n01:58 | Mistake #1\n03:47 | Mistake #2\n06:02 | Mistake #3\n08:57 | Mistake #4\n10:52 | Mistake #5\n13:04 | The Bottom Line\n\nHashtags\n#codinginterviewmistakes #codinginterviewprep  #codinginterviewstrategies",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_tstIX-cLeQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_tstIX-cLeQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_tstIX-cLeQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_tstIX-cLeQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_tstIX-cLeQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Tech With Tim",
+            "tags": [
+                "tech with tim",
+                "coding interview mistakes",
+                "common coding interview errors",
+                "interview preparation tips",
+                "coding interview pitfalls",
+                "technical interview mistakes",
+                "javascript interview tips",
+                "front end interview tips",
+                "programming interview errors",
+                "interview coding challenges",
+                "coding interview strategies",
+                "developer interview mistakes",
+                "programming interview prep",
+                "coding interview best practices",
+                "LeetCode",
+                "Google",
+                "Microsoft",
+                "DevLaunch",
+                "problem solving",
+                "frameworks",
+                "systems",
+                "mock interviews"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "I Can Spot a Weak Candidate in 10 Seconds - Here’s How",
+                "description": "This video breaks down the 5 most common coding technical interview mistakes and how to avoid them. If you've ever participated in a technical coding interview chances are you've made these mistakes and they may have cost you the job...\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=_tstIX-cLeQ\n\n⏳ Timestamps ⏳\n00:00 | Technical Interview Rant\n01:58 | Mistake #1\n03:47 | Mistake #2\n06:02 | Mistake #3\n08:57 | Mistake #4\n10:52 | Mistake #5\n13:04 | The Bottom Line\n\nHashtags\n#codinginterviewmistakes #codinginterviewprep  #codinginterviewstrategies"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT14M18S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "15321",
+            "likeCount": "558",
+            "favoriteCount": "0",
+            "commentCount": "25"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "NuWRkzhM42m-3OzAsPN-ktsp3Wc",
+        "id": "4paHKF4bJtI",
+        "snippet": {
+            "publishedAt": "2025-11-16T17:27:24Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Saving and loading NumPy arrays is easy! 💾",
+            "description": "#python #coding #numpy \n\n00:00:00 save NumPy array\n00:01:53 load NumPy array\n00:02:30 save multiple arrays\n00:04:29 savez_compressed()\n00:05:01 load multiple arrays\n\nimport numpy as np\n\n# --------------------------------------------\n# Save a NumPy array\n# --------------------------------------------\narray = np.array([[1, 2, 3], [4, 5, 6]])\nnp.save(\"data\", array)\nprint(\"File saved!\")\n\n# --------------------------------------------\n# Load a single NumPy array\n# --------------------------------------------\narray = np.load(\"data.npy\")\nprint(array)\n\n# --------------------------------------------\n# Save multiple NumPy arrays\n# --------------------------------------------\narray1 = np.array([[1, 2, 3], [4, 5, 6]])\narray2 = np.array([2022, 2023, 2024, 2025])\narray3 = np.array([1.1, 2.2, 3.3, 4.4, 5.5])\n\nnp.savez(\"data\", array1, array2, array3)\n\nprint(\"NumPy data was saved!\")\n\n# --------------------------------------------\n# Load multiple NumPy arrays\n# --------------------------------------------\narrays = np.load(\"data.npz\")\n\nprint(arrays[\"arr_0\"])\nprint(arrays[\"arr_1\"])\nprint(arrays[\"arr_2\"])",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4paHKF4bJtI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4paHKF4bJtI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4paHKF4bJtI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4paHKF4bJtI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4paHKF4bJtI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "numpy"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Saving and loading NumPy arrays is easy! 💾",
+                "description": "#python #coding #numpy \n\n00:00:00 save NumPy array\n00:01:53 load NumPy array\n00:02:30 save multiple arrays\n00:04:29 savez_compressed()\n00:05:01 load multiple arrays\n\nimport numpy as np\n\n# --------------------------------------------\n# Save a NumPy array\n# --------------------------------------------\narray = np.array([[1, 2, 3], [4, 5, 6]])\nnp.save(\"data\", array)\nprint(\"File saved!\")\n\n# --------------------------------------------\n# Load a single NumPy array\n# --------------------------------------------\narray = np.load(\"data.npy\")\nprint(array)\n\n# --------------------------------------------\n# Save multiple NumPy arrays\n# --------------------------------------------\narray1 = np.array([[1, 2, 3], [4, 5, 6]])\narray2 = np.array([2022, 2023, 2024, 2025])\narray3 = np.array([1.1, 2.2, 3.3, 4.4, 5.5])\n\nnp.savez(\"data\", array1, array2, array3)\n\nprint(\"NumPy data was saved!\")\n\n# --------------------------------------------\n# Load multiple NumPy arrays\n# --------------------------------------------\narrays = np.load(\"data.npz\")\n\nprint(arrays[\"arr_0\"])\nprint(arrays[\"arr_1\"])\nprint(arrays[\"arr_2\"])"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "2972",
+            "likeCount": "176",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "et7I3KOtCE4-C-WXRZYCg_RBzD4",
+        "id": "Gsfsq2epdr8",
+        "snippet": {
+            "publishedAt": "2025-11-15T16:23:17Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "You'll love Python data classes! 📋",
+            "description": "#python #coding #programming \n\n# Data Class = A special kind of class that's designed mostly for holding data\n#                        without writing a lot of the boilerplate code for regular classes.\n#                        They automatically generate: __init__, __repr__, __eq__\n#                        (Python 3.7+)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Gsfsq2epdr8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Gsfsq2epdr8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Gsfsq2epdr8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Gsfsq2epdr8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Gsfsq2epdr8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "dataclass",
+                "dataclasses"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "You'll love Python data classes! 📋",
+                "description": "#python #coding #programming \n\n# Data Class = A special kind of class that's designed mostly for holding data\n#                        without writing a lot of the boilerplate code for regular classes.\n#                        They automatically generate: __init__, __repr__, __eq__\n#                        (Python 3.7+)"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT7M29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "10542",
+            "likeCount": "674",
+            "favoriteCount": "0",
+            "commentCount": "43"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "UZDhfZyuPys1YbdsDK8cGTWBh-A",
+        "id": "81i_uSX9Vic",
+        "snippet": {
+            "publishedAt": "2025-11-12T13:47:34Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Useful NumPy functions you should know! 🎚️",
+            "description": "#python #coding #programming \n\n00:00:00 zeros()\n00:01:29 ones()\n00:01:52 full()\n00:02:16 eye()\n00:03:09 empty()\n00:03:59 arange()\n00:05:16 linspace()\n\nimport numpy as np\n\n# Creates an array with zeros\narray = np.zeros((2, 3, 10))\nprint(array)\n\n# Creates an array with ones\narray = np.ones((2, 3, 10))\nprint(array)\n\n# Creates an array with a given value\narray = np.full((2, 3), 9)\nprint(array)\n\n# Creates an array w/o initializing entries\narray = np.empty((2, 3))\nprint(array)\n\n# Creates an identity matrix with 0s and 1s\narray = np.eye(5)\nprint(array)\n\n# Creates an array with evenly spaced values up to a given range\narray = np.arange(0, 100, 0.1) # (start, stop, step)\nprint(array)\n\n# Creates an array with a set number of values that are evenly spaced\narray = np.linspace(0, 10, 5) # (start, stop, num)\nprint(array)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/81i_uSX9Vic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/81i_uSX9Vic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/81i_uSX9Vic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/81i_uSX9Vic/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/81i_uSX9Vic/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "numpy",
+                "functions",
+                "arange",
+                "linspace"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Useful NumPy functions you should know! 🎚️",
+                "description": "#python #coding #programming \n\n00:00:00 zeros()\n00:01:29 ones()\n00:01:52 full()\n00:02:16 eye()\n00:03:09 empty()\n00:03:59 arange()\n00:05:16 linspace()\n\nimport numpy as np\n\n# Creates an array with zeros\narray = np.zeros((2, 3, 10))\nprint(array)\n\n# Creates an array with ones\narray = np.ones((2, 3, 10))\nprint(array)\n\n# Creates an array with a given value\narray = np.full((2, 3), 9)\nprint(array)\n\n# Creates an array w/o initializing entries\narray = np.empty((2, 3))\nprint(array)\n\n# Creates an identity matrix with 0s and 1s\narray = np.eye(5)\nprint(array)\n\n# Creates an array with evenly spaced values up to a given range\narray = np.arange(0, 100, 0.1) # (start, stop, step)\nprint(array)\n\n# Creates an array with a set number of values that are evenly spaced\narray = np.linspace(0, 10, 5) # (start, stop, num)\nprint(array)"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "2870",
+            "likeCount": "165",
+            "favoriteCount": "0",
+            "commentCount": "15"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "qM-iYYZlQ1bniPzmecd3ZDeBl84",
+        "id": "pJdTyvufOdg",
+        "snippet": {
+            "publishedAt": "2025-11-11T14:17:21Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Create QR codes with Python in 4 minutes! 📱",
+            "description": "#python #coding #programming \n\n# In a terminal: pip install qrcode[pil]\nimport qrcode\n\nurl = input(\"Enter the URL: \").strip()\nfile_path = \"qrcode.png\"\n\nqr = qrcode.QRCode()\nqr.add_data(url)\n\nimg = qr.make_image()\nimg.save(file_path)\n\nprint(\"QR Code was generated!\")",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pJdTyvufOdg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pJdTyvufOdg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pJdTyvufOdg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/pJdTyvufOdg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/pJdTyvufOdg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "qr code",
+                "qr codes"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Create QR codes with Python in 4 minutes! 📱",
+                "description": "#python #coding #programming \n\n# In a terminal: pip install qrcode[pil]\nimport qrcode\n\nurl = input(\"Enter the URL: \").strip()\nfile_path = \"qrcode.png\"\n\nqr = qrcode.QRCode()\nqr.add_data(url)\n\nimg = qr.make_image()\nimg.save(file_path)\n\nprint(\"QR Code was generated!\")"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M11S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "41445",
+            "likeCount": "2923",
+            "favoriteCount": "0",
+            "commentCount": "266"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "4adYY8TZ-wtF_CJhPqfbMeu8ncQ",
+        "id": "k0D3MQwLn7A",
+        "snippet": {
+            "publishedAt": "2025-11-10T14:21:48Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Learn Python iterators in 7 minutes! ➡️",
+            "description": "#python #coding #programming \n\n# Iterator = An object that returns elements one at a time\n#                  from a sequence (or data stream)\n#                  and remembers its position between calls.\n#                  A Python object is an iterator if it has:\n#                 __iter__() → Returns the iterator object itself\n#                 __next__() → Returns the next item in the sequence\n#                                        (raises StopIteration when there's no more items)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/k0D3MQwLn7A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/k0D3MQwLn7A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/k0D3MQwLn7A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/k0D3MQwLn7A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/k0D3MQwLn7A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "iterators",
+                "iterables"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn Python iterators in 7 minutes! ➡️",
+                "description": "#python #coding #programming \n\n# Iterator = An object that returns elements one at a time\n#                  from a sequence (or data stream)\n#                  and remembers its position between calls.\n#                  A Python object is an iterator if it has:\n#                 __iter__() → Returns the iterator object itself\n#                 __next__() → Returns the next item in the sequence\n#                                        (raises StopIteration when there's no more items)"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT7M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "12470",
+            "likeCount": "562",
+            "favoriteCount": "0",
+            "commentCount": "33"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "ci764dotpiUOv0CP5X73mrcykgM",
+        "id": "pgPwaNpC0so",
+        "snippet": {
+            "publishedAt": "2025-11-09T15:39:21Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Learn to reshape NumPy arrays in 4 minutes! ↔️",
+            "description": "#python #coding #numpy \n\n# reshape() = Changes the shape of an array\n#                      w/o altering its underlying data\n#                      array.reshape(rows, columns)\n\nimport numpy as np\n\narray = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])\n\narray = array.reshape(2, 6)\narray = array.reshape(3, 4)\n# array = array.reshape(4, 4) # Too many elements\n# array = array.reshape(2, 4) # Too few elements\narray = array.reshape(4, 3)\narray = array.reshape(2, 2, 3) # 3D\narray = array.reshape(3, 2, 2) # 3D\n\n# -1 NumPy will automatically infer the correct size for that dimension\narray = array.reshape(1, -1)\narray = array.reshape(-1, 1)\n\nprint(array)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pgPwaNpC0so/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pgPwaNpC0so/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pgPwaNpC0so/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/pgPwaNpC0so/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/pgPwaNpC0so/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "numpy",
+                "reshape"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn to reshape NumPy arrays in 4 minutes! ↔️",
+                "description": "#python #coding #numpy \n\n# reshape() = Changes the shape of an array\n#                      w/o altering its underlying data\n#                      array.reshape(rows, columns)\n\nimport numpy as np\n\narray = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])\n\narray = array.reshape(2, 6)\narray = array.reshape(3, 4)\n# array = array.reshape(4, 4) # Too many elements\n# array = array.reshape(2, 4) # Too few elements\narray = array.reshape(4, 3)\narray = array.reshape(2, 2, 3) # 3D\narray = array.reshape(3, 2, 2) # 3D\n\n# -1 NumPy will automatically infer the correct size for that dimension\narray = array.reshape(1, -1)\narray = array.reshape(-1, 1)\n\nprint(array)"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "5277",
+            "likeCount": "278",
+            "favoriteCount": "0",
+            "commentCount": "37"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "ilAlHchqIjXj1DYVcq_kZ55kyiM",
+        "id": "ZBlxaXMN_hU",
+        "snippet": {
+            "publishedAt": "2025-11-07T15:08:16Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Learn Python generator expressions in 9 minutes! ♻️",
+            "description": "#python #coding #programming \n\n# Generator Expression = Similar to a list comprehension but uses () instead of []\n#                                           Creates a generator (iterator) that yields values one at a time\n#                                           No need to define a function or use yield\n#                                           Less flexible than a gen func and not reusable\n#                                           gen object = (expression for value in iterable if condition)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZBlxaXMN_hU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZBlxaXMN_hU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZBlxaXMN_hU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZBlxaXMN_hU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZBlxaXMN_hU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "generators",
+                "generator expressions"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn Python generator expressions in 9 minutes! ♻️",
+                "description": "#python #coding #programming \n\n# Generator Expression = Similar to a list comprehension but uses () instead of []\n#                                           Creates a generator (iterator) that yields values one at a time\n#                                           No need to define a function or use yield\n#                                           Less flexible than a gen func and not reusable\n#                                           gen object = (expression for value in iterable if condition)"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT9M8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "5818",
+            "likeCount": "272",
+            "favoriteCount": "0",
+            "commentCount": "40"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "DbivltSRkRlfQiZxdvQ_h-stoWg",
+        "id": "G1lJeEIl05o",
+        "snippet": {
+            "publishedAt": "2025-11-05T13:30:57Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Learn Python generators in 8 minutes! 🚰",
+            "description": "#python #coding #programming \n\n# Generator = Function that behaves like an iterator (it can be used in a for loop)\n#                       Pauses a function, returns a value, then resumes\n#                       Uses 'yield' instead or 'return'\n#                       Iterate without loading everything into memory (ex. reading large files)\n#                       return = Pouring bucket\n#                       yield = Drip faucet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G1lJeEIl05o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G1lJeEIl05o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G1lJeEIl05o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/G1lJeEIl05o/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/G1lJeEIl05o/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "coding",
+                "programming",
+                "generators",
+                "generator",
+                "generator function",
+                "generator functions"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn Python generators in 8 minutes! 🚰",
+                "description": "#python #coding #programming \n\n# Generator = Function that behaves like an iterator (it can be used in a for loop)\n#                       Pauses a function, returns a value, then resumes\n#                       Uses 'yield' instead or 'return'\n#                       Iterate without loading everything into memory (ex. reading large files)\n#                       return = Pouring bucket\n#                       yield = Drip faucet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT8M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "19008",
+            "likeCount": "950",
+            "favoriteCount": "0",
+            "commentCount": "118"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "vyZZQFqRFKDnEhGysiiY2NdJGug",
+        "id": "5WK3j2erJW4",
+        "snippet": {
+            "publishedAt": "2025-11-04T13:27:30Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Learn Python zip() in 3 minutes! 🤐",
+            "description": "#python #coding #programming \n\n# zip() = Combines multiple iterables (lists, tuples, sets, dict)\n#             into a single iterator of tuples.\n#             Makes managing multiple indices easier.\n\nnames = [\"Spongebob\", \"Patrick\", \"Squidward\"]\nages = [30, 35, 50]\njobs = [\"Cook\", \"Unemployed\", \"Cashier\"]\n\ndata = zip(names, ages, jobs)\n\nfor name, age, job in data:\n    print(f\"{name} is a {age} year old {job}\")",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5WK3j2erJW4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5WK3j2erJW4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5WK3j2erJW4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5WK3j2erJW4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5WK3j2erJW4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "machine learning",
+                "coding",
+                "programming",
+                "zip",
+                "zip()",
+                "zip function"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn Python zip() in 3 minutes! 🤐",
+                "description": "#python #coding #programming \n\n# zip() = Combines multiple iterables (lists, tuples, sets, dict)\n#             into a single iterator of tuples.\n#             Makes managing multiple indices easier.\n\nnames = [\"Spongebob\", \"Patrick\", \"Squidward\"]\nages = [30, 35, 50]\njobs = [\"Cook\", \"Unemployed\", \"Cashier\"]\n\ndata = zip(names, ages, jobs)\n\nfor name, age, job in data:\n    print(f\"{name} is a {age} year old {job}\")"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "20535",
+            "likeCount": "1033",
+            "favoriteCount": "0",
+            "commentCount": "94"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "fXEY-KtCzUDhdzceWwDwH8CR40M",
+        "id": "c9vhHUGdav0",
+        "snippet": {
+            "publishedAt": "2025-10-09T14:01:03Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Learn Matplotlib in 1 hour! 📊",
+            "description": "#python #coding #matplotlib \n\nThis video serves as an introduction to the Matplotlib Python library. We’ll cover the basics of Matplotlib so you can start working with it on your own. After finishing this video, I recommend learning either linear algebra, Scikit-learn, or more advanced Matplotlib topics.\n\n00:00:00 Matplotlib intro 📊\n00:07:01 plot customization \n00:16:18 labels\n00:21:07 grid lines\n00:23:54 bar charts\n00:28:03 pie charts\n00:34:09 scatter plots\n00:40:56 histograms\n00:47:11 subplots\n00:54:07 Pandas + Matplotlib",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c9vhHUGdav0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c9vhHUGdav0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c9vhHUGdav0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/c9vhHUGdav0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/c9vhHUGdav0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "matplotlib",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "course"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Learn Matplotlib in 1 hour! 📊",
+                "description": "#python #coding #matplotlib \n\nThis video serves as an introduction to the Matplotlib Python library. We’ll cover the basics of Matplotlib so you can start working with it on your own. After finishing this video, I recommend learning either linear algebra, Scikit-learn, or more advanced Matplotlib topics.\n\n00:00:00 Matplotlib intro 📊\n00:07:01 plot customization \n00:16:18 labels\n00:21:07 grid lines\n00:23:54 bar charts\n00:28:03 pie charts\n00:34:09 scatter plots\n00:40:56 histograms\n00:47:11 subplots\n00:54:07 Pandas + Matplotlib"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1H",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "30894",
+            "likeCount": "1143",
+            "favoriteCount": "0",
+            "commentCount": "149"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "wofNXF-l6SANWzEW3v9psa72S68",
+        "id": "JJ0vg1Kbris",
+        "snippet": {
+            "publishedAt": "2025-10-08T14:00:34Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Let's create a graph using Pandas and Matplotlib! 🐼📊",
+            "description": "#python #coding #matplotlib \n\nThis video serves as a project where we will create a bar chart based on the primary Type of the original 150 Pokémon. Here is a list you can copy to a CSV file:\n\nNo,Name,Type1,Type2,Height,Weight,Legendary\n1,Bulbasaur,Grass,Poison,0.7,6.9,0\n2,Ivysaur,Grass,Poison,1,13,0\n3,Venusaur,Grass,Poison,2,100,0\n4,Charmander,Fire,,0.6,8.5,0\n5,Charmeleon,Fire,,1.1,19,0\n6,Charizard,Fire,Flying,1.7,90.5,0\n7,Squirtle,Water,,0.5,9,0\n8,Wartortle,Water,,1,22.5,0\n9,Blastoise,Water,,1.6,85.5,0\n10,Caterpie,Bug,,0.3,2.9,0\n11,Metapod,Bug,,0.7,9.9,0\n12,Butterfree,Bug,Flying,1.1,32,0\n13,Weedle,Bug,Poison,0.3,3.2,0\n14,Kakuna,Bug,Poison,0.6,10,0\n15,Beedrill,Bug,Poison,1,29.5,0\n16,Pidgey,Normal,Flying,0.3,1.8,0\n17,Pidgeotto,Normal,Flying,1.1,30,0\n18,Pidgeot,Normal,Flying,1.5,39.5,0\n19,Rattata,Normal,,0.3,3.5,0\n20,Raticate,Normal,,0.7,18.5,0\n21,Spearow,Normal,Flying,0.3,2,0\n22,Fearow,Normal,Flying,1.2,38,0\n23,Ekans,Poison,,2,6.9,0\n24,Arbok,Poison,,3.5,65,0\n25,Pikachu,Electric,,0.4,6,0\n26,Raichu,Electric,,0.8,30,0\n27,Sandshrew,Ground,,0.6,12,0\n28,Sandslash,Ground,,1,29.5,0\n29,Nidoran♀,Poison,,0.4,7,0\n30,Nidorina,Poison,,0.8,20,0\n31,Nidoqueen,Poison,Ground,1.3,60,0\n32,Nidoran♂,Poison,,0.5,9,0\n33,Nidorino,Poison,,0.9,19.5,0\n34,Nidoking,Poison,Ground,1.4,62,0\n35,Clefairy,Fairy,,0.6,7.5,0\n36,Clefable,Fairy,,1.3,40,0\n37,Vulpix,Fire,,0.6,9.9,0\n38,Ninetales,Fire,,1.1,19.9,0\n39,Jigglypuff,Normal,Fairy,0.5,5.5,0\n40,Wigglytuff,Normal,Fairy,1,12,0\n41,Zubat,Poison,Flying,0.8,7.5,0\n42,Golbat,Poison,Flying,1.6,55,0\n43,Oddish,Grass,Poison,0.5,5.4,0\n44,Gloom,Grass,Poison,0.8,8.6,0\n45,Vileplume,Grass,Poison,1.2,18.6,0\n46,Paras,Bug,Grass,0.3,5.4,0\n47,Parasect,Bug,Grass,1,29.5,0\n48,Venonat,Bug,Poison,1,30,0\n49,Venomoth,Bug,Poison,1.5,12.5,0\n50,Diglett,Ground,,0.2,0.8,0\n51,Dugtrio,Ground,,0.7,33.3,0\n52,Meowth,Normal,,0.4,4.2,0\n53,Persian,Normal,,1,32,0\n54,Psyduck,Water,,0.8,19.6,0\n55,Golduck,Water,,1.7,76.6,0\n56,Mankey,Fighting,,0.5,28,0\n57,Primeape,Fighting,,1,32,0\n58,Growlithe,Fire,,0.7,19,0\n59,Arcanine,Fire,,1.9,155,0\n60,Poliwag,Water,,0.6,12.4,0\n61,Poliwhirl,Water,,1,20,0\n62,Poliwrath,Water,Fighting,1.3,54,0\n63,Abra,Psychic,,0.9,19.5,0\n64,Kadabra,Psychic,,1.3,56.5,0\n65,Alakazam,Psychic,,1.5,48,0\n66,Machop,Fighting,,0.8,19.5,0\n67,Machoke,Fighting,,1.5,70.5,0\n68,Machamp,Fighting,,1.6,130,0\n69,Bellsprout,Grass,Poison,0.7,4,0\n70,Weepinbell,Grass,Poison,1,6.4,0\n71,Victreebel,Grass,Poison,1.7,15.5,0\n72,Tentacool,Water,Poison,0.9,45.5,0\n73,Tentacruel,Water,Poison,1.6,55,0\n74,Geodude,Rock,Ground,0.4,20,0\n75,Graveler,Rock,Ground,1,105,0\n76,Golem,Rock,Ground,1.4,300,0\n77,Ponyta,Fire,,1,30,0\n78,Rapidash,Fire,,1.7,95,0\n79,Slowpoke,Water,Psychic,1.2,36,0\n80,Slowbro,Water,Psychic,1.6,78.5,0\n81,Magnemite,Electric,Steel,0.3,6,0\n82,Magneton,Electric,Steel,1,60,0\n83,Farfetch'd,Normal,Flying,0.8,15,0\n84,Doduo,Normal,Flying,1.4,39.2,0\n85,Dodrio,Normal,Flying,1.8,85.2,0\n86,Seel,Water,,1.1,90,0\n87,Dewgong,Water,Ice,1.7,120,0\n88,Grimer,Poison,,0.9,30,0\n89,Muk,Poison,,1.2,30,0\n90,Shellder,Water,,0.3,4,0\n91,Cloyster,Water,Ice,1.5,132.5,0\n92,Gastly,Ghost,Poison,1.3,0.1,0\n93,Haunter,Ghost,Poison,1.6,0.1,0\n94,Gengar,Ghost,Poison,1.5,40.5,0\n95,Onix,Rock,Ground,8.8,210,0\n96,Drowzee,Psychic,,1,32.4,0\n97,Hypno,Psychic,,1.6,75.6,0\n98,Krabby,Water,,0.4,6.5,0\n99,Kingler,Water,,1.3,60,0\n100,Voltorb,Electric,,0.5,10.4,0\n101,Electrode,Electric,,1.2,66.6,0\n102,Exeggcute,Grass,Psychic,0.4,2.5,0\n103,Exeggutor,Grass,Psychic,2,120,0\n104,Cubone,Ground,,0.4,6.5,0\n105,Marowak,Ground,,1,45,0\n106,Hitmonlee,Fighting,,1.5,49.8,0\n107,Hitmonchan,Fighting,,1.4,50.2,0\n108,Lickitung,Normal,,1.2,65.5,0\n109,Koffing,Poison,,0.6,1,0\n110,Weezing,Poison,,1.2,9.5,0\n111,Rhyhorn,Ground,Rock,1,115,0\n112,Rhydon,Ground,Rock,1.9,120,0\n113,Chansey,Normal,,1.1,34.6,0\n114,Tangela,Grass,,1,35,0\n115,Kangaskhan,Normal,,2.2,80,0\n116,Horsea,Water,,0.4,8,0\n117,Seadra,Water,,1.2,25,0\n118,Goldeen,Water,,0.6,15,0\n119,Seaking,Water,,1.3,39,0\n120,Staryu,Water,,0.8,34.5,0\n121,Starmie,Water,Psychic,1.1,80,0\n122,Mr. Mime,Psychic,Fairy,1.3,54.5,0\n123,Scyther,Bug,Flying,1.5,56,0\n124,Jynx,Ice,Psychic,1.4,40.6,0\n125,Electabuzz,Electric,,1.1,30,0\n126,Magmar,Fire,,1.3,44.5,0\n127,Pinsir,Bug,,1.5,55,0\n128,Tauros,Normal,,1.4,88.4,0\n129,Magikarp,Water,,0.9,10,0\n130,Gyarados,Water,Flying,6.5,235,0\n131,Lapras,Water,Ice,2.5,220,0\n132,Ditto,Normal,,0.3,4,0\n133,Eevee,Normal,,0.3,6.5,0\n134,Vaporeon,Water,,1,29,0\n135,Jolteon,Electric,,0.8,24.5,0\n136,Flareon,Fire,,0.9,25,0\n137,Porygon,Normal,,0.8,36.5,0\n138,Omanyte,Rock,Water,0.4,7.5,0\n139,Omastar,Rock,Water,1,35,0\n140,Kabuto,Rock,Water,0.5,11.5,0\n141,Kabutops,Rock,Water,1.3,40.5,0\n142,Aerodactyl,Rock,Flying,1.8,59,0\n143,Snorlax,Normal,,2.1,460,0\n144,Articuno,Ice,Flying,1.7,55.4,1\n145,Zapdos,Electric,Flying,1.6,52.6,1\n146,Moltres,Fire,Flying,2,60,1\n147,Dratini,Dragon,,1.8,3.3,0\n148,Dragonair,Dragon,,4,16.5,0\n149,Dragonite,Dragon,Flying,2.2,210,0\n150,Mewtwo,Psychic,,2,122,1",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JJ0vg1Kbris/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JJ0vg1Kbris/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JJ0vg1Kbris/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JJ0vg1Kbris/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JJ0vg1Kbris/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "matplotlib",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming",
+                "pandas",
+                "numpy"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Let's create a graph using Pandas and Matplotlib! 🐼📊",
+                "description": "#python #coding #matplotlib \n\nThis video serves as a project where we will create a bar chart based on the primary Type of the original 150 Pokémon. Here is a list you can copy to a CSV file:\n\nNo,Name,Type1,Type2,Height,Weight,Legendary\n1,Bulbasaur,Grass,Poison,0.7,6.9,0\n2,Ivysaur,Grass,Poison,1,13,0\n3,Venusaur,Grass,Poison,2,100,0\n4,Charmander,Fire,,0.6,8.5,0\n5,Charmeleon,Fire,,1.1,19,0\n6,Charizard,Fire,Flying,1.7,90.5,0\n7,Squirtle,Water,,0.5,9,0\n8,Wartortle,Water,,1,22.5,0\n9,Blastoise,Water,,1.6,85.5,0\n10,Caterpie,Bug,,0.3,2.9,0\n11,Metapod,Bug,,0.7,9.9,0\n12,Butterfree,Bug,Flying,1.1,32,0\n13,Weedle,Bug,Poison,0.3,3.2,0\n14,Kakuna,Bug,Poison,0.6,10,0\n15,Beedrill,Bug,Poison,1,29.5,0\n16,Pidgey,Normal,Flying,0.3,1.8,0\n17,Pidgeotto,Normal,Flying,1.1,30,0\n18,Pidgeot,Normal,Flying,1.5,39.5,0\n19,Rattata,Normal,,0.3,3.5,0\n20,Raticate,Normal,,0.7,18.5,0\n21,Spearow,Normal,Flying,0.3,2,0\n22,Fearow,Normal,Flying,1.2,38,0\n23,Ekans,Poison,,2,6.9,0\n24,Arbok,Poison,,3.5,65,0\n25,Pikachu,Electric,,0.4,6,0\n26,Raichu,Electric,,0.8,30,0\n27,Sandshrew,Ground,,0.6,12,0\n28,Sandslash,Ground,,1,29.5,0\n29,Nidoran♀,Poison,,0.4,7,0\n30,Nidorina,Poison,,0.8,20,0\n31,Nidoqueen,Poison,Ground,1.3,60,0\n32,Nidoran♂,Poison,,0.5,9,0\n33,Nidorino,Poison,,0.9,19.5,0\n34,Nidoking,Poison,Ground,1.4,62,0\n35,Clefairy,Fairy,,0.6,7.5,0\n36,Clefable,Fairy,,1.3,40,0\n37,Vulpix,Fire,,0.6,9.9,0\n38,Ninetales,Fire,,1.1,19.9,0\n39,Jigglypuff,Normal,Fairy,0.5,5.5,0\n40,Wigglytuff,Normal,Fairy,1,12,0\n41,Zubat,Poison,Flying,0.8,7.5,0\n42,Golbat,Poison,Flying,1.6,55,0\n43,Oddish,Grass,Poison,0.5,5.4,0\n44,Gloom,Grass,Poison,0.8,8.6,0\n45,Vileplume,Grass,Poison,1.2,18.6,0\n46,Paras,Bug,Grass,0.3,5.4,0\n47,Parasect,Bug,Grass,1,29.5,0\n48,Venonat,Bug,Poison,1,30,0\n49,Venomoth,Bug,Poison,1.5,12.5,0\n50,Diglett,Ground,,0.2,0.8,0\n51,Dugtrio,Ground,,0.7,33.3,0\n52,Meowth,Normal,,0.4,4.2,0\n53,Persian,Normal,,1,32,0\n54,Psyduck,Water,,0.8,19.6,0\n55,Golduck,Water,,1.7,76.6,0\n56,Mankey,Fighting,,0.5,28,0\n57,Primeape,Fighting,,1,32,0\n58,Growlithe,Fire,,0.7,19,0\n59,Arcanine,Fire,,1.9,155,0\n60,Poliwag,Water,,0.6,12.4,0\n61,Poliwhirl,Water,,1,20,0\n62,Poliwrath,Water,Fighting,1.3,54,0\n63,Abra,Psychic,,0.9,19.5,0\n64,Kadabra,Psychic,,1.3,56.5,0\n65,Alakazam,Psychic,,1.5,48,0\n66,Machop,Fighting,,0.8,19.5,0\n67,Machoke,Fighting,,1.5,70.5,0\n68,Machamp,Fighting,,1.6,130,0\n69,Bellsprout,Grass,Poison,0.7,4,0\n70,Weepinbell,Grass,Poison,1,6.4,0\n71,Victreebel,Grass,Poison,1.7,15.5,0\n72,Tentacool,Water,Poison,0.9,45.5,0\n73,Tentacruel,Water,Poison,1.6,55,0\n74,Geodude,Rock,Ground,0.4,20,0\n75,Graveler,Rock,Ground,1,105,0\n76,Golem,Rock,Ground,1.4,300,0\n77,Ponyta,Fire,,1,30,0\n78,Rapidash,Fire,,1.7,95,0\n79,Slowpoke,Water,Psychic,1.2,36,0\n80,Slowbro,Water,Psychic,1.6,78.5,0\n81,Magnemite,Electric,Steel,0.3,6,0\n82,Magneton,Electric,Steel,1,60,0\n83,Farfetch'd,Normal,Flying,0.8,15,0\n84,Doduo,Normal,Flying,1.4,39.2,0\n85,Dodrio,Normal,Flying,1.8,85.2,0\n86,Seel,Water,,1.1,90,0\n87,Dewgong,Water,Ice,1.7,120,0\n88,Grimer,Poison,,0.9,30,0\n89,Muk,Poison,,1.2,30,0\n90,Shellder,Water,,0.3,4,0\n91,Cloyster,Water,Ice,1.5,132.5,0\n92,Gastly,Ghost,Poison,1.3,0.1,0\n93,Haunter,Ghost,Poison,1.6,0.1,0\n94,Gengar,Ghost,Poison,1.5,40.5,0\n95,Onix,Rock,Ground,8.8,210,0\n96,Drowzee,Psychic,,1,32.4,0\n97,Hypno,Psychic,,1.6,75.6,0\n98,Krabby,Water,,0.4,6.5,0\n99,Kingler,Water,,1.3,60,0\n100,Voltorb,Electric,,0.5,10.4,0\n101,Electrode,Electric,,1.2,66.6,0\n102,Exeggcute,Grass,Psychic,0.4,2.5,0\n103,Exeggutor,Grass,Psychic,2,120,0\n104,Cubone,Ground,,0.4,6.5,0\n105,Marowak,Ground,,1,45,0\n106,Hitmonlee,Fighting,,1.5,49.8,0\n107,Hitmonchan,Fighting,,1.4,50.2,0\n108,Lickitung,Normal,,1.2,65.5,0\n109,Koffing,Poison,,0.6,1,0\n110,Weezing,Poison,,1.2,9.5,0\n111,Rhyhorn,Ground,Rock,1,115,0\n112,Rhydon,Ground,Rock,1.9,120,0\n113,Chansey,Normal,,1.1,34.6,0\n114,Tangela,Grass,,1,35,0\n115,Kangaskhan,Normal,,2.2,80,0\n116,Horsea,Water,,0.4,8,0\n117,Seadra,Water,,1.2,25,0\n118,Goldeen,Water,,0.6,15,0\n119,Seaking,Water,,1.3,39,0\n120,Staryu,Water,,0.8,34.5,0\n121,Starmie,Water,Psychic,1.1,80,0\n122,Mr. Mime,Psychic,Fairy,1.3,54.5,0\n123,Scyther,Bug,Flying,1.5,56,0\n124,Jynx,Ice,Psychic,1.4,40.6,0\n125,Electabuzz,Electric,,1.1,30,0\n126,Magmar,Fire,,1.3,44.5,0\n127,Pinsir,Bug,,1.5,55,0\n128,Tauros,Normal,,1.4,88.4,0\n129,Magikarp,Water,,0.9,10,0\n130,Gyarados,Water,Flying,6.5,235,0\n131,Lapras,Water,Ice,2.5,220,0\n132,Ditto,Normal,,0.3,4,0\n133,Eevee,Normal,,0.3,6.5,0\n134,Vaporeon,Water,,1,29,0\n135,Jolteon,Electric,,0.8,24.5,0\n136,Flareon,Fire,,0.9,25,0\n137,Porygon,Normal,,0.8,36.5,0\n138,Omanyte,Rock,Water,0.4,7.5,0\n139,Omastar,Rock,Water,1,35,0\n140,Kabuto,Rock,Water,0.5,11.5,0\n141,Kabutops,Rock,Water,1.3,40.5,0\n142,Aerodactyl,Rock,Flying,1.8,59,0\n143,Snorlax,Normal,,2.1,460,0\n144,Articuno,Ice,Flying,1.7,55.4,1\n145,Zapdos,Electric,Flying,1.6,52.6,1\n146,Moltres,Fire,Flying,2,60,1\n147,Dratini,Dragon,,1.8,3.3,0\n148,Dragonair,Dragon,,4,16.5,0\n149,Dragonite,Dragon,Flying,2.2,210,0\n150,Mewtwo,Psychic,,2,122,1"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "6399",
+            "likeCount": "316",
+            "favoriteCount": "0",
+            "commentCount": "37"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "EsOiX2Ct67vDFijO7IrXh48Rv4s",
+        "id": "KFMs_ZZNgmo",
+        "snippet": {
+            "publishedAt": "2025-10-07T14:00:23Z",
+            "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+            "title": "Matplotlib subplots in 6 minutes! 🔲",
+            "description": "#python #coding #matplotlib \n\nIn this video I will show you how to create subplots using Matplotlib.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KFMs_ZZNgmo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KFMs_ZZNgmo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KFMs_ZZNgmo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KFMs_ZZNgmo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KFMs_ZZNgmo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Bro Code",
+            "tags": [
+                "python",
+                "matplotlib",
+                "machine learning",
+                "artificial intelligence",
+                "coding",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Matplotlib subplots in 6 minutes! 🔲",
+                "description": "#python #coding #matplotlib \n\nIn this video I will show you how to create subplots using Matplotlib."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "5237",
+            "likeCount": "202",
+            "favoriteCount": "0",
+            "commentCount": "19"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "vnw3V9FJY5QEonfoUkg1ySH1SQ0",
+        "id": "EWd3_I4X32g",
+        "snippet": {
+            "publishedAt": "2025-04-16T21:49:36Z",
+            "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "title": "Spring Boot Project: Build a REST API for an E-commerce Platform",
+            "description": "Learn how to build a REST API for an e-commerce platform. Perfect for Java developers looking to enhance their skills with hands-on Spring Boot projects!\n\n🚀 Want to dive deeper?\n- Get the full course: https://mosh.link/spring-boot-api-development\n- Subscribe for more videos like this: https://goo.gl/6PYaGF\n\n💡 Related tutorials \nhttps://youtu.be/gJrjgg1KVL4?si=bgsORKFCW0utvTEZ\nhttps://youtu.be/eIrMbAQSU34?si=Uw0R6GZ4DM0sanYR\nhttps://youtu.be/7S_tz1z_5bA?si=RvQs6awyciFtDeel\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📖 Table of Content\n0:00:00 Welcome\n0:01:31 What You’ll Learn\n0:03:41 Prerequisites\n0:04:59 Starter Project\n0:09:07 How to Take This Course\n0:10:29 Spring MVC\n0:11:19 How the Web Works\n0:16:31 What is Spring MVC?\n0:18:09 Creating a Controller\n0:22:23 View Templates\n0:25:50 Passing Data to Views\n0:27:49 Building an API\n0:32:18 Spring Boot Course\n0:32:51 RESTful APIs\n0:33:49 Creating Your First RESTful API\n0:37:49 Calling APIs with Postman\n0:40:25 Creating Dynamic Routes\n0:43:54 Setting HTTP Status Codes\n0:46:56 Data Transfer Objects\n0:51:47 Mapping Objects Using MapStruct\n0:56:43 Customizing Response Data\n1:01:45 Extracting Query Parameters\n1:09:58 Exercise: Building Product Endpoints\n1:20:17 Extracting Request Headers\n1:23:07 Extracting Request Body\n1:26:25 Creating Resources\n1:35:52 Updating Resources\n1:41:38 Deleting Resources\n1:43:31 Handling Action-Based Updates\n1:48:25 Exercise: Building a CRUD API\n1:59:40 Spring Boot Course\n\n#springboot #java #backend",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EWd3_I4X32g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EWd3_I4X32g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EWd3_I4X32g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EWd3_I4X32g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EWd3_I4X32g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Programming with Mosh",
+            "tags": [
+                "spring boot project",
+                "spring boot crash course",
+                "spring boot 3.0",
+                "spring boot advanced",
+                "mosh hamedani",
+                "programming with mosh",
+                "code with mosh",
+                "spring boot",
+                "java",
+                "spring boot full course",
+                "spring boot tutorial",
+                "spring framework"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Spring Boot Project: Build a REST API for an E-commerce Platform",
+                "description": "Learn how to build a REST API for an e-commerce platform. Perfect for Java developers looking to enhance their skills with hands-on Spring Boot projects!\n\n🚀 Want to dive deeper?\n- Get the full course: https://mosh.link/spring-boot-api-development\n- Subscribe for more videos like this: https://goo.gl/6PYaGF\n\n💡 Related tutorials \nhttps://youtu.be/gJrjgg1KVL4?si=bgsORKFCW0utvTEZ\nhttps://youtu.be/eIrMbAQSU34?si=Uw0R6GZ4DM0sanYR\nhttps://youtu.be/7S_tz1z_5bA?si=RvQs6awyciFtDeel\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📖 Table of Content\n0:00:00 Welcome\n0:01:31 What You’ll Learn\n0:03:41 Prerequisites\n0:04:59 Starter Project\n0:09:07 How to Take This Course\n0:10:29 Spring MVC\n0:11:19 How the Web Works\n0:16:31 What is Spring MVC?\n0:18:09 Creating a Controller\n0:22:23 View Templates\n0:25:50 Passing Data to Views\n0:27:49 Building an API\n0:32:18 Spring Boot Course\n0:32:51 RESTful APIs\n0:33:49 Creating Your First RESTful API\n0:37:49 Calling APIs with Postman\n0:40:25 Creating Dynamic Routes\n0:43:54 Setting HTTP Status Codes\n0:46:56 Data Transfer Objects\n0:51:47 Mapping Objects Using MapStruct\n0:56:43 Customizing Response Data\n1:01:45 Extracting Query Parameters\n1:09:58 Exercise: Building Product Endpoints\n1:20:17 Extracting Request Headers\n1:23:07 Extracting Request Body\n1:26:25 Creating Resources\n1:35:52 Updating Resources\n1:41:38 Deleting Resources\n1:43:31 Handling Action-Based Updates\n1:48:25 Exercise: Building a CRUD API\n1:59:40 Spring Boot Course\n\n#springboot #java #backend"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "159537",
+            "likeCount": "2933",
+            "favoriteCount": "0",
+            "commentCount": "135"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "7rF9ZiqTlI1Jzw40H9iI33KcpTg",
+        "id": "K5KVEU3aaeQ",
+        "snippet": {
+            "publishedAt": "2025-02-12T12:30:31Z",
+            "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "title": "Python Full Course for Beginners [2025]",
+            "description": "Master Python from scratch 🚀 No fluff—just clear, practical coding skills to kickstart your journey! \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n🚀 Want to dive deeper?\n- Check out my Python mastery course: https://mosh.link/python-course\n- Subscribe for more awesome Python content: https://goo.gl/6PYaGF\n\n🔗 Related videos \nhttps://youtu.be/yVl_G-F7m8c?si=aoIiT6CyaRRfBsRM\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📖 Table of Content\n0:00:00 Introduction\n0:00:56 What is Python?\n0:04:11 Installing Python\n0:05:36 Python Interpreter\n0:07:30 Code Editors\n0:08:49 Your First Python Program\n0:12:25 Python Extension\n0:14:26 Linting Python Code\n0:18:40 Formatting Python Code\n0:22:51 Running Python Code\n0:24:30 Python Implementations\n0:26:59 How Python Code is Executed\n0:29:45 Quiz\n0:31:17 Python Mastery Course\n0:31:44 Variables\n0:34:48 Variable Names\n0:37:51 Strings\n0:43:20 Escape Sequences\n0:46:01 Formatted Strings\n0:48:09 String Methods\n0:54:03 Numbers\n0:56:50 Working With Numbers\n0:58:59 Type Conversion\n1:04:03 Quiz\n1:06:43 Comparison Operators\n1:08:46 Conditional Statements\n1:12:56 Ternary Operator\n1:15:04 Logical Operators\n1:19:07 Short-circuit Evaluations\n1:21:13 Chaining Comparison Operators\n1:22:35 Quiz\n1:24:18 For Loops\n1:27:56 For..Else\n1:30:42 Nested Loops\n1:33:26 Iterables\n1:36:34 While Loops\n1:41:33 Infinite Loops\n1:43:10 Exercise\n1:45:13 Defining Functions\n1:47:37 Arguments\n1:49:57 Types of Functions\n1:53:59 Keyword Arguments\n1:55:59 Default Arguments\n1:57:34 xargs\n\n#Python #AI #MachineLearning #WebDevelopment",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/K5KVEU3aaeQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Programming with Mosh",
+            "tags": [
+                "python full course",
+                "python full course for begginers",
+                "python beginners course",
+                "python complete course",
+                "python full tutorial",
+                "python tutorial",
+                "python programming tutorial",
+                "python tutorial for beginners",
+                "learn python",
+                "python basics",
+                "programming tutorial",
+                "python crash course",
+                "complete python course",
+                "python",
+                "python course",
+                "python programming",
+                "python for everybody",
+                "programming with mosh",
+                "mosh hamedani",
+                "code with mosh"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Python Full Course for Beginners [2025]",
+                "description": "Master Python from scratch 🚀 No fluff—just clear, practical coding skills to kickstart your journey! \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n🚀 Want to dive deeper?\n- Check out my Python mastery course: https://mosh.link/python-course\n- Subscribe for more awesome Python content: https://goo.gl/6PYaGF\n\n🔗 Related videos \nhttps://youtu.be/yVl_G-F7m8c?si=aoIiT6CyaRRfBsRM\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📖 Table of Content\n0:00:00 Introduction\n0:00:56 What is Python?\n0:04:11 Installing Python\n0:05:36 Python Interpreter\n0:07:30 Code Editors\n0:08:49 Your First Python Program\n0:12:25 Python Extension\n0:14:26 Linting Python Code\n0:18:40 Formatting Python Code\n0:22:51 Running Python Code\n0:24:30 Python Implementations\n0:26:59 How Python Code is Executed\n0:29:45 Quiz\n0:31:17 Python Mastery Course\n0:31:44 Variables\n0:34:48 Variable Names\n0:37:51 Strings\n0:43:20 Escape Sequences\n0:46:01 Formatted Strings\n0:48:09 String Methods\n0:54:03 Numbers\n0:56:50 Working With Numbers\n0:58:59 Type Conversion\n1:04:03 Quiz\n1:06:43 Comparison Operators\n1:08:46 Conditional Statements\n1:12:56 Ternary Operator\n1:15:04 Logical Operators\n1:19:07 Short-circuit Evaluations\n1:21:13 Chaining Comparison Operators\n1:22:35 Quiz\n1:24:18 For Loops\n1:27:56 For..Else\n1:30:42 Nested Loops\n1:33:26 Iterables\n1:36:34 While Loops\n1:41:33 Infinite Loops\n1:43:10 Exercise\n1:45:13 Defining Functions\n1:47:37 Arguments\n1:49:57 Types of Functions\n1:53:59 Keyword Arguments\n1:55:59 Default Arguments\n1:57:34 xargs\n\n#Python #AI #MachineLearning #WebDevelopment"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2H2M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "4193197",
+            "likeCount": "102938",
+            "favoriteCount": "0",
+            "commentCount": "2713"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "5pTxmC7xCM6xYfNUoYu70bbzweA",
+        "id": "v7BNtpw53AA",
+        "snippet": {
+            "publishedAt": "2025-01-14T12:31:01Z",
+            "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "title": "The Complete Cybersecurity Roadmap: Land a Cybersecurity Job in 10 Months",
+            "description": "The complete step-by-step roadmap to land your first cybersecurity job in 10 months or less.\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=CgNwkAU760a5nRA6\nhttps://youtu.be/kqtD5dpn9C8?si=09gTE-7ltWEZSuqQ\n\n#cybersecurity #coding #techjobs",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/v7BNtpw53AA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/v7BNtpw53AA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/v7BNtpw53AA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/v7BNtpw53AA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/v7BNtpw53AA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Programming with Mosh",
+            "tags": [
+                "cybersecurity roadmap",
+                "cyber security roadmap",
+                "how to get a cyber job",
+                "cybersecurity",
+                "cybersecurity jobs",
+                "penetration testing",
+                "cyber security",
+                "cyber security career",
+                "coding",
+                "programming",
+                "programming with mosh",
+                "code with mosh",
+                "mosh hamedani",
+                "entry level cybersecurity jobs",
+                "soc analyst",
+                "pentesting"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "The Complete Cybersecurity Roadmap: Land a Cybersecurity Job in 10 Months",
+                "description": "The complete step-by-step roadmap to land your first cybersecurity job in 10 months or less.\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=CgNwkAU760a5nRA6\nhttps://youtu.be/kqtD5dpn9C8?si=09gTE-7ltWEZSuqQ\n\n#cybersecurity #coding #techjobs"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "491664",
+            "likeCount": "17880",
+            "favoriteCount": "0",
+            "commentCount": "485"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "4HTkCmFUoRp4eNggYLyngHJDUBo",
+        "id": "GxmfcnU3feo",
+        "snippet": {
+            "publishedAt": "2024-07-25T13:00:16Z",
+            "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "title": "The Complete Web Development Roadmap",
+            "description": "Go from zero to a full stack web developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies to become a web developer in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/web-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/7IgVGSaQPaw?si=nBuvDkGY314211WM\nhttps://youtu.be/yye7rSsiV6k?si=NNyTV354jvuKVzpu\n\n📚 Backend Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=QA5qvbvk60uP-7Gu\nhttps://youtu.be/eIrMbAQSU34?si=PmdmS1vo9Gp4yRxR\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/NU_1StN5Tkk?si=gsMONPdgxouQOolu\nhttps://youtu.be/7S_tz1z_5bA?si=wUNE0zrN_6uWrO7d\nhttps://youtu.be/rHux0gMZ3Eg?si=w1h0R4U8freF5xPT\n\n📚 Frontend Tutorials \n\nhttps://youtu.be/qz0aGYrrlhU?si=8d3Q5kiE83nMJZAG\nhttps://youtu.be/W6NZfCO5SIk?si=WXcgkjHSsGFyXZC2\nhttps://youtu.be/d56mG7DezGs?si=Bng_nVPU7VQrxaa7\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/SqcY0GlETPk?si=hbktR9plzOgfuvpZ\nhttps://youtu.be/ZVnjOPwW4ZA?si=VG6XInWdFW8d0Sog\nhttps://youtu.be/zuKbR4Q428o?si=U_e5ITtUGFptQoqw\nhttps://youtu.be/0-S5a0eXPoc?si=1l1qX0YwbQN7BEuo\n\n📖 Chapters\n\n00:00 - Web Development \n01:04 - Back-end Development \n08:58 - Front-end Development \n\n#programming #webdevelopment #coding",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GxmfcnU3feo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GxmfcnU3feo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GxmfcnU3feo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GxmfcnU3feo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GxmfcnU3feo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Programming with Mosh",
+            "tags": [
+                "web development roadmap",
+                "full stack roadmap",
+                "learn to code",
+                "full stack development",
+                "web development",
+                "programming",
+                "coding",
+                "code with mosh",
+                "programming with mosh",
+                "mosh hamedani",
+                "frontend",
+                "backend",
+                "software engineering"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "The Complete Web Development Roadmap",
+                "description": "Go from zero to a full stack web developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies to become a web developer in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/web-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/7IgVGSaQPaw?si=nBuvDkGY314211WM\nhttps://youtu.be/yye7rSsiV6k?si=NNyTV354jvuKVzpu\n\n📚 Backend Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=QA5qvbvk60uP-7Gu\nhttps://youtu.be/eIrMbAQSU34?si=PmdmS1vo9Gp4yRxR\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/NU_1StN5Tkk?si=gsMONPdgxouQOolu\nhttps://youtu.be/7S_tz1z_5bA?si=wUNE0zrN_6uWrO7d\nhttps://youtu.be/rHux0gMZ3Eg?si=w1h0R4U8freF5xPT\n\n📚 Frontend Tutorials \n\nhttps://youtu.be/qz0aGYrrlhU?si=8d3Q5kiE83nMJZAG\nhttps://youtu.be/W6NZfCO5SIk?si=WXcgkjHSsGFyXZC2\nhttps://youtu.be/d56mG7DezGs?si=Bng_nVPU7VQrxaa7\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/SqcY0GlETPk?si=hbktR9plzOgfuvpZ\nhttps://youtu.be/ZVnjOPwW4ZA?si=VG6XInWdFW8d0Sog\nhttps://youtu.be/zuKbR4Q428o?si=U_e5ITtUGFptQoqw\nhttps://youtu.be/0-S5a0eXPoc?si=1l1qX0YwbQN7BEuo\n\n📖 Chapters\n\n00:00 - Web Development \n01:04 - Back-end Development \n08:58 - Front-end Development \n\n#programming #webdevelopment #coding"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT15M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "1041842",
+            "likeCount": "21911",
+            "favoriteCount": "0",
+            "commentCount": "756"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "MTnI7WAH9kNd_c0ebgi1NVNT6vM",
+        "id": "5qxMeu3m-EQ",
+        "snippet": {
+            "publishedAt": "2025-01-29T20:23:09Z",
+            "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+            "title": "Why You Need an AI Laptop (as a developer)",
+            "description": "Find out more about NVIDIA RTX AI PCs here: https://nvda.ws/40BhEyz\n\nWhat do you think of AI Laptops? I've started running DeepSeek R1 and it's been crazy so far.\n\n#nvidia #rtx #ai",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5qxMeu3m-EQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5qxMeu3m-EQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5qxMeu3m-EQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5qxMeu3m-EQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5qxMeu3m-EQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Aaron Jack",
+            "tags": [
+                "startups",
+                "technology",
+                "coding",
+                "programming",
+                "software development",
+                "coder",
+                "learn coding",
+                "learn to code",
+                "faang",
+                "google",
+                "coding tutorial",
+                "javascript",
+                "typescript"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Why You Need an AI Laptop (as a developer)",
+                "description": "Find out more about NVIDIA RTX AI PCs here: https://nvda.ws/40BhEyz\n\nWhat do you think of AI Laptops? I've started running DeepSeek R1 and it's been crazy so far.\n\n#nvidia #rtx #ai"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT7M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "8647",
+            "likeCount": "204",
+            "favoriteCount": "0",
+            "commentCount": "43"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "LkO7oSxffG24fUTAsj83dTMB6IE",
+        "id": "JHIbucOTLEY",
+        "snippet": {
+            "publishedAt": "2025-01-15T15:12:26Z",
+            "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+            "title": "How to Build Powerful Web Scrapers with AI - 3 Steps",
+            "description": "Get your Web scraping proxies! https://dataimpulse.com/?utm_source=Youtube&utm_medium=Video&utm_campaign=AaronJack \n\n#webscraping #javascript #ai",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JHIbucOTLEY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JHIbucOTLEY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JHIbucOTLEY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JHIbucOTLEY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JHIbucOTLEY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Aaron Jack",
+            "tags": [
+                "startups",
+                "technology",
+                "coding",
+                "programming",
+                "software development",
+                "coder",
+                "learn coding",
+                "learn to code",
+                "faang",
+                "google",
+                "coding tutorial",
+                "javascript",
+                "typescript"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "How to Build Powerful Web Scrapers with AI - 3 Steps",
+                "description": "Get your Web scraping proxies! https://dataimpulse.com/?utm_source=Youtube&utm_medium=Video&utm_campaign=AaronJack \n\n#webscraping #javascript #ai"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT13M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "10553",
+            "likeCount": "272",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "b5TpPbf4UxRHw_UAEIANxbsJ0gc",
+        "id": "C5gPterGnu8",
+        "snippet": {
+            "publishedAt": "2023-12-12T13:11:20Z",
+            "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+            "title": "You MUST Know This When Choosing a Code Editor",
+            "description": "VS Code?\nVIM?\nHow to Choose a Code Editor ft. Chris Coyier of codepen.io\n\n00:00 - Intro\n04:25 - Chris Coyier introduces CodePen\n07:04 - CodePen uses\n08:40 - Scaling the business\n10:00 - Goals for the future\n10:30 - Biggest challenges and breakthroughs\n12:15 - Advice for creators\n13:20 - Content creation for programming\n\n#vscode #coding #programming ❗Free Programming Cheat Sheets (JavaScript, Python, React, CSS)\nhttps://freemote.com/programming-cheat-sheets\n\n❗Learn How to Earn a Side Income with Freelance Coding\nhttps://freemote.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/C5gPterGnu8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/C5gPterGnu8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/C5gPterGnu8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/C5gPterGnu8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/C5gPterGnu8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Aaron Jack",
+            "tags": [
+                "startups",
+                "technology",
+                "coding",
+                "programming",
+                "software development",
+                "coder",
+                "learn coding",
+                "learn to code",
+                "faang",
+                "google",
+                "coding tutorial",
+                "javascript",
+                "typescript"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "You MUST Know This When Choosing a Code Editor",
+                "description": "VS Code?\nVIM?\nHow to Choose a Code Editor ft. Chris Coyier of codepen.io\n\n00:00 - Intro\n04:25 - Chris Coyier introduces CodePen\n07:04 - CodePen uses\n08:40 - Scaling the business\n10:00 - Goals for the future\n10:30 - Biggest challenges and breakthroughs\n12:15 - Advice for creators\n13:20 - Content creation for programming\n\n#vscode #coding #programming ❗Free Programming Cheat Sheets (JavaScript, Python, React, CSS)\nhttps://freemote.com/programming-cheat-sheets\n\n❗Learn How to Earn a Side Income with Freelance Coding\nhttps://freemote.com"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT15M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "7312",
+            "likeCount": "290",
+            "favoriteCount": "0",
+            "commentCount": "22"
+        }
+    },    
+    {
+        "kind": "youtube#video",
+        "etag": "6fx-_iC2dG0vtt2GNsHbYIkBB3A",
+        "id": "2Y3kEPMDmog",
+        "snippet": {
+            "publishedAt": "2024-10-29T16:09:25Z",
+            "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+            "title": "How I Write SEO posts in 2 Mins With Notion AI + API",
+            "description": "🎉 Unlock AI for $10 per month → https://ntn.so/AaronJack\n\n📌 Get my template → https://ntn.so/aiblogbuildertemplate\n\n(includes github repo link)\n\n\n\n#notion  #ai  #seo ❗Free Programming Cheat Sheets (JavaScript, Python, React, CSS)\nhttps://freemote.com/programming-cheat-sheets\n\n❗Learn How to Earn a Side Income with Freelance Coding\nhttps://freemote.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2Y3kEPMDmog/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2Y3kEPMDmog/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2Y3kEPMDmog/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2Y3kEPMDmog/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2Y3kEPMDmog/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Aaron Jack",
+            "tags": [
+                "startups",
+                "technology",
+                "coding",
+                "programming",
+                "software development",
+                "coder",
+                "learn coding",
+                "learn to code",
+                "faang",
+                "google",
+                "coding tutorial",
+                "javascript",
+                "typescript"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "How I Write SEO posts in 2 Mins With Notion AI + API",
+                "description": "🎉 Unlock AI for $10 per month → https://ntn.so/AaronJack\n\n📌 Get my template → https://ntn.so/aiblogbuildertemplate\n\n(includes github repo link)\n\n\n\n#notion  #ai  #seo ❗Free Programming Cheat Sheets (JavaScript, Python, React, CSS)\nhttps://freemote.com/programming-cheat-sheets\n\n❗Learn How to Earn a Side Income with Freelance Coding\nhttps://freemote.com"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT11M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "3732",
+            "likeCount": "116",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "vMHt8EkuTGXV5uIoUVmbOr-iHZc",
+        "id": "gDzND0M6SGE",
+        "snippet": {
+            "publishedAt": "2024-10-23T17:29:58Z",
+            "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+            "title": "Cursor.AI Basics in 10 Mins (Is it Worth Using?)",
+            "description": "Get up to date on AI, with the AI For Business Builders Guide: https://clickhubspot.com/lo19\nUseful tips for anyone building with AI prompts, agents, LLMs and more (Created by Hubspot)\n\nHow are you using Cursor? What tips would you add to this video?\n\n#ai  #cursor  #coding ❗Free Programming Cheat Sheets (JavaScript, Python, React, CSS)\nhttps://freemote.com/programming-cheat-sheets\n\n❗Learn How to Earn a Side Income with Freelance Coding\nhttps://freemote.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gDzND0M6SGE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gDzND0M6SGE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gDzND0M6SGE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gDzND0M6SGE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gDzND0M6SGE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Aaron Jack",
+            "tags": [
+                "startups",
+                "technology",
+                "coding",
+                "programming",
+                "software development",
+                "coder",
+                "learn coding",
+                "learn to code",
+                "faang",
+                "google",
+                "coding tutorial",
+                "javascript",
+                "typescript"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Cursor.AI Basics in 10 Mins (Is it Worth Using?)",
+                "description": "Get up to date on AI, with the AI For Business Builders Guide: https://clickhubspot.com/lo19\nUseful tips for anyone building with AI prompts, agents, LLMs and more (Created by Hubspot)\n\nHow are you using Cursor? What tips would you add to this video?\n\n#ai  #cursor  #coding ❗Free Programming Cheat Sheets (JavaScript, Python, React, CSS)\nhttps://freemote.com/programming-cheat-sheets\n\n❗Learn How to Earn a Side Income with Freelance Coding\nhttps://freemote.com"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT11M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "24796",
+            "likeCount": "396",
+            "favoriteCount": "0",
+            "commentCount": "21"
+        }
+    }
+]
