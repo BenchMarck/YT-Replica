@@ -222,34 +222,7 @@ const AdvancedSearchPanel = () => {
       <Box display="flex" gap={2} alignItems="center" mb={2}>
         <Button variant="contained" onClick={handleGetLocation}> Obtener ubicación </Button>
         <p ref={statusRef} style={{ marginTop: "10px", color: "gray" }}></p>
-        {locationData && (
-          <Box
-            className="flex flex-row gap-2 items-center"
-            p={2}
-            border="1px solid #ccc"
-            borderRadius="8px"
-            bgcolor="#f9f9f9"
-          >
-            <Typography variant="subtitle1" gutterBottom>
-              <strong>Detalles de ubicación:</strong>
-            </Typography>
-            <Typography>
-              <strong>Ciudad:</strong> {locationData.city}
-            </Typography>
-            <Typography>
-              <strong>Estado:</strong> {locationData.state}
-            </Typography>
-            <Typography>
-              <strong>País:</strong> {locationData.country}
-            </Typography>
-            <Typography>
-              <strong>Latitud:</strong> {locationData.latitude}
-            </Typography>
-            <Typography>
-              <strong>Longitud:</strong> {locationData.longitude}
-            </Typography>
-          </Box>
-        )}
+
       </Box>
       <Box>
         <Button variant="outlined" onClick={handleGoBack} disabled={locationHistory?.length < 2} sx={{ marginBottom: "10px", color: "blue" }}>

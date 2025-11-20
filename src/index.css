@@ -10,6 +10,11 @@ html, body, #root {
 }
 */
 
+html, body {
+  overflow-x: hidden;
+}
+
+
 html,
 body,
 #root {

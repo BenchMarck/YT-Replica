@@ -13,25 +13,34 @@ const SearchBar = ({ expanded }) => {
       navigate(`/search/${searchTerm}`);
       setSearchTerm("");
     }
-    if (expanded) window.scrollTo({ top: 750, behavior: 'smooth' });
+    if (expanded) {
+  setTimeout(() => {
+    const el = document.getElementById("results-top");
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }, 150);
+}
+
   };
 
   return (
     <Paper
       component="form"
       onSubmit={onhandleSubmit}
-      sx={{
-        display: "flex",
-        alignItems: "center",
-        borderRadius: 20,
-        border: "1px solid #ddd",
-        pl: 2,
-        pr: 1,
-        mr: { sm: 5 },
-        width: { xs: "100%", sm: "450px", md: "600px" },
-        boxShadow: "none",
-        backgroundColor: "#fff",
-      }}
+sx={{
+  display: "flex",
+  alignItems: "center",
+  borderRadius: 20,
+  border: "1px solid #ddd",
+  pl: 2,
+  pr: 1,
+  mr: { sm: 5 },
+  width: "100%",
+  maxWidth: 600,
+  boxShadow: "none",
+  backgroundColor: "#fff",
+}}
     >
       <InputBase
         sx={{ ml: 1, flex: 1, fontSize: "0.9rem",

@@ -32,15 +32,22 @@ const Navbar = ({ toggleCategories, feedPage=false }) => {
   
   return (
   <>
-    <Stack direction="row" alignItems="center" p={1.5} sx={{
-      position: "sticky",
-      background: "rgba(180, 19, 19, 1)",
-      top: 0,
-      zIndex: 1000,
-      justifyContent: "space-between",
-      boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
-    }}
-    >
+<Stack
+  direction="row"
+  alignItems="center"
+  p={1.5}
+  sx={{
+    position: "sticky",
+    background: "rgba(180, 19, 19, 1)",
+    top: 0,
+    zIndex: 1000,
+    justifyContent: "space-between",
+    boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
+    width: "100%",
+    overflow: "hidden",
+  }}
+>
+
       {/* Left Section - Logo + Menu */}
       <Stack direction="row" alignItems="center" spacing={1.5}>
         { feedPage ? (
@@ -49,7 +56,7 @@ const Navbar = ({ toggleCategories, feedPage=false }) => {
           </IconButton>
         ) : null }
         <Link to="/" style={{ display: "flex", alignItems: "center", textDecoration: "none" }}>
-          <img src="/iconyt1.png" alt="logo" width={45} height={45} />
+          <img src="/iconyt1.png" alt="logo" width={45} height={45} style={{ display: "block" }} />
           <span style={{ color: "white", fontSize: "1.2rem", fontWeight: 600, marginLeft: "8px", }}>
             YouTube
           </span>
@@ -62,16 +69,29 @@ const Navbar = ({ toggleCategories, feedPage=false }) => {
       </Box>
 
       {/* Right Section - User Avatar */}
-      <Stack direction="row" alignItems="center" spacing={2}>
+     <Stack
+  direction="row"
+  alignItems="center"
+  spacing={1}
+  sx={{ flexShrink: 0 }}
+>
         {loggedInUser ? (
           <>
         <Tooltip title="Open settings">
             <Avatar onClick={handleMenuOpen}
               src={profile?.avatarUrl || user?.photoURL}
               alt="User"
-              sx={{ width: 38, height: 38, border: "2px solid black", cursor: "pointer",
-                ":hover": { background: "rgba(180, 19, 19, 1)",border: "2px solid white" }
-              }}
+               sx={{
+    width: { xs: 32, sm: 38 },
+    height: { xs: 32, sm: 38 },
+    border: "2px solid black",
+    cursor: "pointer",
+    flexShrink: 0,
+    ":hover": {
+      background: "rgba(180, 19, 19, 1)",
+      border: "2px solid white"
+    }
+  }}
             />
           </Tooltip>
           <Menu
@@ -92,7 +112,8 @@ const Navbar = ({ toggleCategories, feedPage=false }) => {
           </Menu>
         </>
         ) : (
-          <div className="flex">
+         <div className="flex" style={{ display: "flex", gap: "8px" }}>
+
 
           <Link to="/login" style={{ display: "flex", alignItems: "center", textDecoration: "none" }}>
             <button
