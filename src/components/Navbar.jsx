@@ -1,168 +1,110 @@
 import { Menu, MenuItem } from "@mui/material";
-import { Box, Stack, IconButton, Avatar } from "@mui/material";
-import { Typography, Accordion, AccordionSummary, AccordionDetails, } from "@mui/material";
+import { IconButton, Avatar } from "@mui/material";
 import Tooltip from '@mui/material/Tooltip';
 import MenuIcon from "@mui/icons-material/Menu";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import { Link, useLocation, useNavigate } from "react-router-dom";
-import { useEffect, useState } from "react";
+import { Link, useNavigate } from "react-router-dom";
+import {  useState } from "react";
 import { SearchBar } from "./";
 import Loader from "./Loader";
 import { useAuth } from "../auth/AuthContext";
 import { logout } from "../config/firebase";
-import AdvancedSearchPanel from "./AdvancedSearchPanel";
 
 
-const Navbar = ({ toggleCategories, feedPage=false }) => {
-  const { user, loading, profile } = useAuth() || {};
-  
-  const loggedInUser = user?.uid ? true : false;
-  
-  const [expanded, setExpanded] = useState(false);
-  const location = useLocation();
-  const keepExpanded = location.pathname.startsWith("/search");
-  useEffect(() => { if (!keepExpanded) setExpanded(false); }, [location.pathname]);
+  const Navbar = ({ toggleCategories, feedPage=false }) => {
+  const { user, loading, profile } = useAuth() || {};    
   
   const navigate = useNavigate();
   const [anchorElement, setAnchorElement] = useState(null);
-  const handleMenuOpen = (event) => { setAnchorElement(event.currentTarget); };
-  const handleMenuClose = () => { setAnchorElement(null); };
   
   if (loading) return <Loader />;
   
   return (
-  <>
-<Stack
-  direction="row"
-  alignItems="center"
-  p={1.5}
-  sx={{
-    position: "sticky",
-    background: "rgba(180, 19, 19, 1)",
-    top: 0,
-    zIndex: 1000,
-    justifyContent: "space-between",
-    boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
-    width: "100%",
-    overflow: "hidden",
-  }}
->
+    <header className="sticky top-0 z-1000 bg-red-700 shadow-md">
+      <div className="flex flex-wrap items-center justify-between px-4 py-2">
 
-      {/* Left Section - Logo + Menu */}
-      <Stack direction="row" alignItems="center" spacing={1.5}>
-        { feedPage ? (
-          <IconButton sx={{ color: "white" }} onClick={toggleCategories}>
-            <MenuIcon />
-          </IconButton>
-        ) : null }
-        <Link to="/" style={{ display: "flex", alignItems: "center", textDecoration: "none" }}>
-          <img src="/iconyt1.png" alt="logo" width={45} height={45} style={{ display: "block" }} />
-          <span style={{ color: "white", fontSize: "1.2rem", fontWeight: 600, marginLeft: "8px", }}>
-            YouTube
-          </span>
-        </Link>
-      </Stack>
+        {/* LEFT: Menu + Logo */}
+        <div className="flex items-center gap-1 shrink-0">
+          {feedPage && (
+            <IconButton onClick={toggleCategories} style={{color: "white"}}>
+              <MenuIcon />
+            </IconButton>
+          )}
 
-      {/* Center Section - Search Bar */}
-      <Box sx={{ flex: 1, display: "flex", justifyContent: "center" }}>
-        <SearchBar expanded={expanded} />
-      </Box>
-
-      {/* Right Section - User Avatar */}
-     <Stack
-  direction="row"
-  alignItems="center"
-  spacing={1}
-  sx={{ flexShrink: 0 }}
->
-        {loggedInUser ? (
-          <>
-        <Tooltip title="Open settings">
-            <Avatar onClick={handleMenuOpen}
-              src={profile?.avatarUrl || user?.photoURL}
-              alt="User"
-               sx={{
-    width: { xs: 32, sm: 38 },
-    height: { xs: 32, sm: 38 },
-    border: "2px solid black",
-    cursor: "pointer",
-    flexShrink: 0,
-    ":hover": {
-      background: "rgba(180, 19, 19, 1)",
-      border: "2px solid white"
-    }
-  }}
-            />
-          </Tooltip>
-          <Menu
-            anchorEl={anchorElement}
-            open={Boolean(anchorElement)}
-            onClose={handleMenuClose}
-            slotProps={{ sx: { mt: 1, minWidth: 150, }, }}
-          >
-            <span style={{ color: "red", fontSize: "1.1rem", fontWeight: 600, margin: "10px", }}>
-              {user?.displayName || profile?.username}
+          <Link to="/" className="flex items-center">
+            <img src="/iconyt1.png" alt="logo" className="w-10 h-10" />
+            <span className="hidden md:inline-block ml-2"
+            style={{ color: "white", fontSize: "1.2rem", fontWeight: 600, }}
+            > YouTube
             </span>
-            <MenuItem onClick={() => { navigate("/profile"); handleMenuClose(); }}>
-              Profile
-            </MenuItem>
-            <MenuItem onClick={() => { logout(); handleMenuClose(); }}>
-              Logout
-            </MenuItem>
-          </Menu>
-        </>
-        ) : (
-         <div className="flex" style={{ display: "flex", gap: "8px" }}>
-
-
-          <Link to="/login" style={{ display: "flex", alignItems: "center", textDecoration: "none" }}>
-            <button
-              style={{
-                color: "black",
-                backgroundColor: "white",
-                fontSize: "1.2rem",
-                fontWeight: 600,
-                marginLeft: "8px",
-                border: "1px solid white",
-                padding: "5px 10px",
-                borderRadius: "5px",
-              }}
-              >
-              Login
-            </button>
           </Link>
+        </div>
 
-          <Link to="/signup" style={{ display: "flex", alignItems: "center", textDecoration: "none" }}>
-            <button
-              style={{
-                color: "white",
-                fontSize: "1.2rem",
-                fontWeight: 600,
-                marginLeft: "8px",
-                border: "1px solid white",
-                padding: "5px 10px",
-                borderRadius: "5px",
-              }}
-              >
-              Sign Up
-            </button>
-          </Link>
-              </div>
-        )}
-      </Stack>
-    </Stack>
-    <Accordion expanded={expanded} onChange={() => setExpanded(prev => !prev)}
-    disableGutters sx={{ backgroundColor: "#656a67ff", zIndex: 1, position: "relative" }}>
-      <AccordionSummary expandIcon={<ExpandMoreIcon sx={{ color: "white" }} />}>
-        <Typography variant="h6" sx={{ color: "white" }}>
-          Búsqueda Avanzada
-        </Typography>
-      </AccordionSummary>
-      <AccordionDetails sx={{ backgroundColor: "#c5c8caff" }}>
-        <AdvancedSearchPanel />
-      </AccordionDetails>
-    </Accordion>
-  </>
+        {/* CENTER: Search bar */}
+        <div className="flex-1 flex justify-center px-4 w-full max-w-xs sm:max-w-md min-w-0">
+          <SearchBar />    
+        </div>
+
+        {/* RIGHT: Avatar or Login/Signup */}
+        <div className="hidden md:flex items-center gap-3 shrink-0">
+          {user ? (
+            <>
+              <Tooltip title="Abrir menú">
+                <Avatar
+                  src={profile?.avatarUrl || user?.photoURL}
+                  alt="User"
+                  onClick={(e) => setAnchorElement(e.currentTarget)}
+                  className="w-10 h-10 cursor-pointer border-2 border-black hover:border-white hover:bg-red-700 transition"
+                />
+              </Tooltip>
+
+              <Menu
+                anchorEl={anchorElement}
+                open={Boolean(anchorElement)}
+                onClose={() => setAnchorElement(null)}
+                >
+                <div className="px-4 py-2 text-red-600 font-semibold">
+                  {user?.displayName || profile?.username}
+                </div>
+
+                <MenuItem
+                  onClick={() => {
+                    navigate("/profile");
+                    setAnchorElement(null);
+                  }}
+                >
+                  Profile
+                </MenuItem>
+
+                <MenuItem
+                  onClick={() => {
+                    logout();
+                    setAnchorElement(null);
+                  }}
+                  >
+                  Logout
+                </MenuItem>
+              </Menu>
+            </>
+          ) : (
+            <div className="flex gap-2">
+
+              <Link to="/login">
+                <button className="px-4 py-1.5 bg-white text-black border border-gray-300 rounded-md font-semibold hover:bg-gray-100 transition">
+                  Login
+                </button>
+              </Link>
+
+              <Link to="/signup">
+                <button className="px-4 py-1.5 border border-white text-white rounded-md font-semibold hover:bg-red-600 transition">
+                  Sign Up
+                </button>
+              </Link>
+
+            </div>
+          )}
+        </div>
+      </div>
+    </header>
   );
 }
 

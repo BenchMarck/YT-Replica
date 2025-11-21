@@ -10,17 +10,13 @@ html, body, #root {
 }
 */
 
-html, body {
-  overflow-x: hidden;
-}
-
-
 html,
 body,
 #root {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   box-sizing: border-box;
   background-color: #ffffff;
   color: #000000;
@@ -34,6 +30,10 @@ body,
 a {
   text-decoration: none;
   color: black;
+}
+
+a:visited {
+  color: inherit;
 }
 
 /* Show scrollbar in all browsers */

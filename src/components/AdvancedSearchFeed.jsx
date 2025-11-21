@@ -77,12 +77,8 @@ const SearchAdvancedFeed = () => {
             // center map around search location
             if (lat && lng) map.setView([lat, lng], 10);
           }
-            setTimeout(() => {
-    const el = document.getElementById("advanced-results-top");
-    if (el) {
-      el.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-  }, 150);
+          const boxEl = document.getElementById("advanced-results");
+          boxEl?.scrollIntoView({ behavior: "smooth", block: "start" });
           return;
         }
 
@@ -109,14 +105,6 @@ const SearchAdvancedFeed = () => {
             return;
           }
           navigate(`/search/${encodeURIComponent(qKeyword.trim())}`);
-
-  setTimeout(() => {
-    const el = document.getElementById("results-top");
-    if (el) {
-      el.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-  }, 150);
-
           return;
         }
         alert("No se encontró una ubicación anterior en el historial.");        
@@ -140,7 +128,7 @@ const SearchAdvancedFeed = () => {
 }, [lat, lng, radius, qKeyword]);
 
 return (
-<Box id="advanced-results-top" p={2} minHeight="95vh">
+<Box id="advanced-results" p={2} minHeight="95vh">
       <Typography variant="h4" fontWeight={900} color="white" mb={3}>
         Resultados de búsqueda avanzada {qKeyword!=""?(<span style={{ color: "#FC1503" }}>{`| ${qKeyword}`}</span>):""}
       </Typography>

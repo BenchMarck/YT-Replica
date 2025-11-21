@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { Paper, IconButton, InputBase } from "@mui/material";
+import { IconButton, InputBase } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 
-const SearchBar = ({ expanded }) => {
+const SearchBar = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const navigate = useNavigate();
 
@@ -13,45 +13,18 @@ const SearchBar = ({ expanded }) => {
       navigate(`/search/${searchTerm}`);
       setSearchTerm("");
     }
-    if (expanded) {
-  setTimeout(() => {
-    const el = document.getElementById("results-top");
-    if (el) {
-      el.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-  }, 150);
-}
-
   };
 
   return (
-    <Paper
-      component="form"
+    <form
       onSubmit={onhandleSubmit}
-sx={{
-  display: "flex",
-  alignItems: "center",
-  borderRadius: 20,
-  border: "1px solid #ddd",
-  pl: 2,
-  pr: 1,
-  mr: { sm: 5 },
-  width: "100%",
-  maxWidth: 600,
-  boxShadow: "none",
-  backgroundColor: "#fff",
-}}
-    >
+      className="flex items-center w-full max-w-[600px] bg-white border border-gray-300 rounded-full
+      pl-2 pr-1 shadow-sm">
       <InputBase
         sx={{ ml: 1, flex: 1, fontSize: "0.9rem",
           "& input": {
-            paddingLeft: "8px",
+            paddingLeft: "2px",
           },
-          "& input:focus": {
-            outline: "2px solid black",
-            outlineOffset: "2px",
-            borderRadius: "15px",
-          }
         }}
         className='search-bar'
         placeholder="Buscar..."
@@ -70,7 +43,7 @@ sx={{
       >
         <SearchIcon />
       </IconButton>
-    </Paper>
+    </form>
   );
 };
 
