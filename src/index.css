@@ -285,3 +285,7 @@ a:visited {
   margin-bottom: 2rem;
   color: #000000;
 }
+
+#feed {
+  scroll-margin-top: 50px; /* offset */
+}

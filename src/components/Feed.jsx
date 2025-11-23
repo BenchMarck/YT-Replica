@@ -22,6 +22,8 @@ const Feed = () => {
     setLoading(true);
     getFromLocal("search", { selected: selectedCategory })
     .then((data) => { setVideos(shuffleArray(data.items)); setLoading(false); });
+    const el = document.getElementById("feed");
+    el?.scrollIntoView({ behavior: "smooth"});
   }, [selectedCategory]);
   
   if (loading) return <Loader />;
@@ -33,7 +35,7 @@ const Feed = () => {
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={handleCategorySelect} showCategoryNames={showCategoryNames} />
       </Box>
       
-      <Box p={2} sx={{ /*overflowY: "auto", height: "90vh",*/ flex: 2 }}>
+      <Box id="feed" p={2} sx={{ /*overflowY: "auto", height: "90vh",*/ flex: 2 }}>
         <Typography variant="h4" fontWeight="bold" mb={2} sx={{ color: "white" }}>          
           {selectedCategory === "Home" ? 
             (profile ? <>Bienvenido, <span style={{ color: "#FC1503" }}>{profile.username.split("-")[0]}</span></> : "Bienvenido") 

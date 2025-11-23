@@ -72,7 +72,7 @@ export default function ProfileUser() {
   if (!profileData) return <p>No profile found</p>;
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen w-full overflow-x-hidden">
       <ToastContainer position="bottom-right" />
 
       <div>
@@ -105,7 +105,7 @@ export default function ProfileUser() {
         onRemoveFromHistory={handleRemoveFromHistory}
       />
       {isClearHistoryDialogOpen && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black/60">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60">
           <div className="bg-white text-black p-6 rounded shadow-lg max-w-sm w-full">
             <h3 className="text-lg font-semibold mb-2">Eliminar historial de reproducción?</h3>
             <p className="text-sm text-gray-700 mb-4">
@@ -129,7 +129,7 @@ export default function ProfileUser() {
         </div>
       )}
       {isDeleteProfileDialogOpen && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black/60">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60">
           <div className="bg-white text-black p-6 rounded shadow-lg max-w-sm w-full">
             <h3 className="text-lg font-semibold mb-2">Eliminar perfil?</h3>
             <p className="text-sm text-gray-700 mb-4">

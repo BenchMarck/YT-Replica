@@ -10,6 +10,8 @@ import Login from "./auth/Login";
 
 import AdvancedSearchFeed from "./components/AdvancedSearchFeed";
 
+import SmartScrollToTop from "./components/SmartScrollToTop";
+
 import { MapProvider } from "./context/MapContext";
 
 
@@ -18,6 +20,7 @@ export default function App() {
   return (
   <MapProvider>
     <Router>
+      <SmartScrollToTop />
       <Routes>
         <Route element={<Main />}>
           <Route path="/" element={<Feed />} />
@@ -26,10 +29,10 @@ export default function App() {
           <Route path="/search/:searchTerm" element={<SearchFeed />} />
           <Route path="/search-advanced" element={<AdvancedSearchFeed />} />
           <Route path="/profile" element={<AuthRoute> <ProfileUser /> </AuthRoute>} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
+          <Route path="*" element={<NotFound />} />
         </Route>
-        <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<Signup />} />
-        <Route path="*" element={<NotFound />} />
       </Routes>
     </Router>
   </MapProvider>

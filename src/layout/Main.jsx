@@ -1,6 +1,5 @@
 import { Outlet, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { Box } from "@mui/material";
 import { Navbar } from "../components";
 
 import {
@@ -24,30 +23,34 @@ export default function Main() {
   const toggleCategories = () => setShowCategoryNames((prev) => !prev);
 
   const isFeedPage = location.pathname === "/";
+  const hidePanel = ["/login", "/signup"].includes(location.pathname);
 
   return (
     <div className="min-h-screen bg-black flex flex-col">
       <Navbar
         toggleCategories={toggleCategories}
         feedPage={isFeedPage}
+        hidden={hidePanel}
       />
-      <Accordion
-        expanded={expanded}
-        onChange={() => setExpanded((prev) => !prev)}
-        disableGutters
-        sx={{ backgroundColor: "#656a67ff", zIndex: 1, position: "relative" }}
-      >
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon sx={{ color: "white" }} />}
+      <div style={{ display: hidePanel ? "none" : "block" }}>
+        <Accordion
+          expanded={expanded}
+          onChange={() => setExpanded((prev) => !prev)}
+          disableGutters
+          sx={{ backgroundColor: "#656a67ff", zIndex: 5, position: "relative" }}
         >
-          <Typography variant="h6" sx={{ color: "white" }}>
-            Búsqueda Avanzada
-          </Typography>
-        </AccordionSummary>
-        <AccordionDetails sx={{ backgroundColor: "#c5c8caff" }}>
-          <AdvancedSearchPanel />
-        </AccordionDetails>
-      </Accordion>
+          <AccordionSummary
+            expandIcon={<ExpandMoreIcon sx={{ color: "white" }} />}
+          >
+            <Typography variant="h6" sx={{ color: "white" }}>
+              Búsqueda Avanzada
+            </Typography>
+          </AccordionSummary>
+          <AccordionDetails sx={{ backgroundColor: "#c5c8caff" }}>
+            <AdvancedSearchPanel />
+          </AccordionDetails>
+        </Accordion>
+      </div>
       <Outlet context={{ showCategoryNames }} />
     </div>
   );

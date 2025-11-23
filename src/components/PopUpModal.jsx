@@ -14,7 +14,7 @@ export default function PopUpModal ({ closingModal }) {
   };
 
   const modalContent = (
-    <div ref={modalRef} className="modal-overlay" onClick={closeModal}>
+    <div ref={modalRef} className="modal-overlay z-50" onClick={closeModal}>
       <div className="modal-content">
         <button className="close-btn" onClick={closingModal}>
           <img src="/img/close.svg" alt="Close" width="24" height="24" className="bg-gray-500" />

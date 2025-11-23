@@ -14,8 +14,8 @@ export function EditProfileDialog({ open, onOpenChange, currentData, onSave }) {
 
 
   return (
-    <div className="fixed inset-0 flex items-center justify-center bg-gray-500/75">
-      <div className="bg-gray-400 p-6 rounded-lg shadow-lg w-full max-w-md">
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-500/75">
+      <div className="bg-gray-400 p-6 rounded-lg shadow-lg w-[90%] sm:w-full max-w-md">
         <h2 className="text-lg text-blue-600 font-semibold mb-2">Editar Perfil</h2>
         <div className="space-y-3">
           {["username", "handle", "description", "avatarUrl", "bannerUrl"].map((field) => (

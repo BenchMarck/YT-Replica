@@ -11,8 +11,7 @@ const AdvancedSearchPanel = () => {
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
 
-  const mapRef = useRef(null);
-  const mapInstance = useMap();
+  const { mapInstance, mapRef } = useMap();
 
   const [coords, setCoords] = useState(null);
   const [radius, setRadius] = useState(1000);
@@ -88,19 +87,6 @@ const AdvancedSearchPanel = () => {
       return newHistory;
     });
   };
-
-  // initialize map only once
-  useEffect(() => {
-    if (!mapRef.current || mapInstance.current) return;
-
-    mapInstance.current = L.map(mapRef.current).setView([20, -99], 6);
-
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: "© https://github.com/gzmark",
-    }).addTo(mapInstance.current);
-
-    setTimeout(() => mapInstance.current.invalidateSize(), 100);
-  }, []);
 
   const initMarker = (lat, lng) => {
     const map = mapInstance.current;
@@ -220,7 +206,7 @@ const AdvancedSearchPanel = () => {
   };
 
   return (
-    <div className="w-full bg-white border-b border-gray-300 shadow-md z-40 pb-6 rounded-lg overflow-hidden">
+    <div className="w-full bg-white border-b border-gray-300 shadow-md pb-6 rounded-lg overflow-hidden">
       <div className="p-4 bg-gray-50 border-b">
         <h2 className="text-xl font-bold text-gray-800">
           Buscar por ubicación
@@ -313,7 +299,6 @@ const AdvancedSearchPanel = () => {
 
         {/* Map Container */}
         <div
-          id="map"
           ref={mapRef}
           className="w-full h-[400px] rounded-md overflow-hidden border border-gray-300"
         />
