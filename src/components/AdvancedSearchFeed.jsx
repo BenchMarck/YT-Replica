@@ -17,7 +17,7 @@ const SearchAdvancedFeed = () => {
 
   const { setBtnLoading } = useAuth();
 
-  const mapInstance = useMap();
+  const { mapInstance } = useMap();
   const videoMarkersRef = useRef([]);
 
   const lat = searchParams.get("lat");
